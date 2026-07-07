@@ -19,6 +19,9 @@
 | CardioNet Vet | PhysioNet + PASCAL + Kaggle Heartbeat (4000+ записей) | 85.8% |
 | CHF Risk Scorer | Heart Failure Clinical Records (299 пациентов) | 83.3% |
 
+## Демонстрация
+![Демонстрация анализа](demo.png)
+
 ## Быстрый старт
 
 ```bash
