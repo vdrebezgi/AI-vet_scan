@@ -29,7 +29,7 @@ python vet_station.py
 Выбрать [4] для тестового анализа или [6] для своего WAV-файла.
 ```
 
-Структура проекта
+## Структура проекта
 pilot-pulmoscan/
 ├── vet_station.py          # Центр управления (главный файл для запуска)
 ├── vet_scanner_v3.py       # Автономный анализатор (собаки + кошки)
@@ -47,8 +47,8 @@ pilot-pulmoscan/
 ├── case_drawing.svg        # Чертёж корпуса
 └── case_3d.step            # 3D-модель корпуса
 
-Технологический стек
+## Технологический стек
 Python TensorFlow/Keras scikit-learn SciPy Matplotlib Kaggle CLI PubMed API
 
-Статус
+## Статус
 Проект в активной разработке. Готовится версия для ESP32 (автономный прибор).
