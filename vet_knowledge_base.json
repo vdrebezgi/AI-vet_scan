@@ -1,0 +1,2706 @@
+{
+  "breeds": {
+    "кавалер-кинг-чарльз": {
+      "name_en": "Cavalier King Charles Spaniel",
+      "size": "small",
+      "weight_range_kg": [
+        5.9,
+        8.2
+      ],
+      "life_expectancy_years": [
+        9,
+        14
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": {
+            "probability": 0.9,
+            "age_onset": 5,
+            "notes": "Дегенерация митрального клапана — почти у 100% к 10 годам"
+          },
+          "chf_risk": {
+            "probability": 0.5,
+            "notes": "Хроническая сердечная недостаточность как исход МВД"
+          }
+        },
+        "respiratory": {},
+        "orthopedic": {
+          "patellar_luxation": {
+            "probability": 0.2
+          }
+        },
+        "neurological": {
+          "syringomyelia": {
+            "probability": 0.25,
+            "notes": "Сирингомиелия из-за мальформации Киари"
+          }
+        }
+      }
+    },
+    "доберман": {
+      "name_en": "Doberman Pinscher",
+      "size": "large",
+      "weight_range_kg": [
+        32,
+        45
+      ],
+      "life_expectancy_years": [
+        10,
+        13
+      ],
+      "risks": {
+        "heart": {
+          "dcm": {
+            "probability": 0.5,
+            "age_onset": 4,
+            "notes": "Дилатационная кардиомиопатия — ведущая причина смерти"
+          },
+          "arrhythmia": {
+            "probability": 0.3,
+            "notes": "Желудочковые аритмии"
+          }
+        },
+        "orthopedic": {
+          "hip_dysplasia": {
+            "probability": 0.15
+          },
+          "wobbler_syndrome": {
+            "probability": 0.1
+          }
+        },
+        "hematologic": {
+          "von_willebrand": {
+            "probability": 0.3,
+            "notes": "Болезнь фон Виллебранда"
+          }
+        }
+      }
+    },
+    "боксёр": {
+      "name_en": "Boxer",
+      "size": "large",
+      "weight_range_kg": [
+        25,
+        32
+      ],
+      "life_expectancy_years": [
+        10,
+        12
+      ],
+      "risks": {
+        "heart": {
+          "arvc": {
+            "probability": 0.4,
+            "notes": "Аритмогенная кардиомиопатия правого желудочка"
+          },
+          "aortic_stenosis": {
+            "probability": 0.15
+          }
+        },
+        "cancer": {
+          "mast_cell_tumor": {
+            "probability": 0.2
+          },
+          "lymphoma": {
+            "probability": 0.15
+          }
+        },
+        "respiratory": {
+          "brachycephalic": {
+            "probability": 0.3,
+            "notes": "Умеренная брахицефалия"
+          }
+        }
+      }
+    },
+    "мопс": {
+      "name_en": "Pug",
+      "size": "small",
+      "weight_range_kg": [
+        6.3,
+        8.1
+      ],
+      "life_expectancy_years": [
+        12,
+        15
+      ],
+      "risks": {
+        "respiratory": {
+          "baos": {
+            "probability": 0.8,
+            "notes": "Брахицефалический обструктивный синдром"
+          }
+        },
+        "eyes": {
+          "corneal_ulcer": {
+            "probability": 0.3
+          },
+          "proptosis": {
+            "probability": 0.15
+          }
+        },
+        "orthopedic": {
+          "hip_dysplasia": {
+            "probability": 0.2
+          },
+          "patellar_luxation": {
+            "probability": 0.15
+          }
+        },
+        "neurological": {
+          "pug_dog_encephalitis": {
+            "probability": 0.05,
+            "notes": "Некротизирующий энцефалит мопсов"
+          }
+        }
+      }
+    },
+    "немецкая овчарка": {
+      "name_en": "German Shepherd",
+      "size": "large",
+      "weight_range_kg": [
+        30,
+        40
+      ],
+      "life_expectancy_years": [
+        9,
+        13
+      ],
+      "risks": {
+        "orthopedic": {
+          "hip_dysplasia": {
+            "probability": 0.35
+          },
+          "elbow_dysplasia": {
+            "probability": 0.2
+          }
+        },
+        "heart": {
+          "dcm": {
+            "probability": 0.1
+          }
+        },
+        "gastrointestinal": {
+          "epi": {
+            "probability": 0.1,
+            "notes": "Экзокринная недостаточность поджелудочной"
+          },
+          "gdv": {
+            "probability": 0.15,
+            "notes": "Заворот желудка"
+          }
+        },
+        "neurological": {
+          "degenerative_myelopathy": {
+            "probability": 0.15
+          }
+        }
+      }
+    },
+    "такса": {
+      "name_en": "Dachshund",
+      "size": "small",
+      "weight_range_kg": [
+        7,
+        14
+      ],
+      "life_expectancy_years": [
+        12,
+        16
+      ],
+      "risks": {
+        "orthopedic": {
+          "ivdd": {
+            "probability": 0.4,
+            "notes": "Болезнь межпозвонковых дисков"
+          }
+        },
+        "heart": {
+          "mitral_valve_disease": {
+            "probability": 0.3,
+            "age_onset": 8
+          }
+        },
+        "eyes": {
+          "pra": {
+            "probability": 0.1,
+            "notes": "Прогрессирующая атрофия сетчатки"
+          }
+        }
+      }
+    },
+    "лабрадор": {
+      "name_en": "Labrador Retriever",
+      "size": "large",
+      "weight_range_kg": [
+        25,
+        36
+      ],
+      "life_expectancy_years": [
+        10,
+        14
+      ],
+      "risks": {
+        "orthopedic": {
+          "hip_dysplasia": {
+            "probability": 0.2
+          },
+          "elbow_dysplasia": {
+            "probability": 0.15
+          },
+          "ccld": {
+            "probability": 0.1,
+            "notes": "Разрыв крестообразной связки"
+          }
+        },
+        "endocrine": {
+          "hypothyroidism": {
+            "probability": 0.1
+          },
+          "obesity": {
+            "probability": 0.4
+          }
+        },
+        "eyes": {
+          "pra": {
+            "probability": 0.08
+          }
+        },
+        "heart": {
+          "tricuspid_dysplasia": {
+            "probability": 0.05
+          }
+        }
+      }
+    },
+    "чихуахуа": {
+      "size": "small",
+      "weight": [
+        1.5,
+        3
+      ],
+      "life": [
+        14,
+        16
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": 0.4,
+          "patent_ductus": 0.1
+        },
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "neuro": {
+          "hydrocephalus": 0.15
+        },
+        "dental": {
+          "periodontal": 0.8
+        }
+      }
+    },
+    "той-пудель": {
+      "size": "small",
+      "weight": [
+        2,
+        4
+      ],
+      "life": [
+        14,
+        18
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "eyes": {
+          "cataract": 0.2,
+          "pra": 0.15
+        },
+        "endocrine": {
+          "cushing": 0.1
+        },
+        "dental": {
+          "periodontal": 0.7
+        }
+      }
+    },
+    "джек-рассел-терьер": {
+      "size": "small",
+      "weight": [
+        6,
+        8
+      ],
+      "life": [
+        13,
+        16
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "eyes": {
+          "lens_luxation": 0.15
+        },
+        "neuro": {
+          "epilepsy": 0.1
+        }
+      }
+    },
+    "ши-тцу": {
+      "size": "small",
+      "weight": [
+        4,
+        7.2
+      ],
+      "life": [
+        10,
+        16
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.5
+        },
+        "eyes": {
+          "corneal_ulcer": 0.3,
+          "proptosis": 0.2
+        },
+        "ortho": {
+          "hip_dysplasia": 0.15
+        },
+        "dental": {
+          "periodontal": 0.7
+        }
+      }
+    },
+    "померанский шпиц": {
+      "size": "small",
+      "weight": [
+        1.8,
+        3.5
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.4
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        },
+        "resp": {
+          "collapsing_trachea": 0.3
+        },
+        "dental": {
+          "periodontal": 0.8
+        }
+      }
+    },
+    "мальтийская болонка": {
+      "size": "small",
+      "weight": [
+        3,
+        4
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.2
+        },
+        "heart": {
+          "mitral_valve_disease": 0.3
+        },
+        "dental": {
+          "periodontal": 0.8
+        },
+        "eyes": {
+          "glaucoma": 0.1
+        }
+      }
+    },
+    "йоркширский терьер": {
+      "size": "small",
+      "weight": [
+        2,
+        3.2
+      ],
+      "life": [
+        13,
+        16
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "resp": {
+          "collapsing_trachea": 0.4
+        },
+        "dental": {
+          "periodontal": 0.9
+        },
+        "gi": {
+          "portosystemic_shunt": 0.1
+        }
+      }
+    },
+    "кокер-спаниель": {
+      "size": "medium",
+      "weight": [
+        12,
+        16
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": 0.4,
+          "dcm": 0.1
+        },
+        "eyes": {
+          "cataract": 0.3,
+          "glaucoma": 0.2
+        },
+        "ear": {
+          "otitis": 0.6
+        },
+        "ortho": {
+          "hip_dysplasia": 0.15
+        }
+      }
+    },
+    "бигль": {
+      "size": "medium",
+      "weight": [
+        9,
+        11
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "ivdd": 0.15
+        },
+        "eyes": {
+          "glaucoma": 0.1
+        },
+        "endocrine": {
+          "hypothyroidism": 0.2
+        },
+        "heart": {
+          "pulmonic_stenosis": 0.1
+        }
+      }
+    },
+    "бульдог французский": {
+      "size": "medium",
+      "weight": [
+        8,
+        14
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.9
+        },
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "ivdd": 0.25
+        },
+        "skin": {
+          "atopy": 0.5
+        },
+        "eyes": {
+          "cherry_eye": 0.3
+        }
+      }
+    },
+    "бульдог английский": {
+      "size": "medium",
+      "weight": [
+        18,
+        25
+      ],
+      "life": [
+        8,
+        10
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.95
+        },
+        "ortho": {
+          "hip_dysplasia": 0.5
+        },
+        "skin": {
+          "atopy": 0.6
+        },
+        "heart": {
+          "pulmonic_stenosis": 0.2
+        },
+        "eyes": {
+          "cherry_eye": 0.4
+        }
+      }
+    },
+    "корги (пемброк)": {
+      "size": "medium",
+      "weight": [
+        10,
+        14
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "ivdd": 0.3
+        },
+        "eyes": {
+          "pra": 0.1
+        },
+        "neuro": {
+          "degenerative_myelopathy": 0.15
+        }
+      }
+    },
+    "колли (бордер)": {
+      "size": "medium",
+      "weight": [
+        14,
+        20
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.15
+        },
+        "eyes": {
+          "pra": 0.1,
+          "collie_eye": 0.05
+        },
+        "neuro": {
+          "epilepsy": 0.15
+        },
+        "heart": {
+          "patent_ductus": 0.05
+        }
+      }
+    },
+    "сибирский хаски": {
+      "size": "medium",
+      "weight": [
+        16,
+        27
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "eyes": {
+          "cataract": 0.3,
+          "glaucoma": 0.15
+        },
+        "ortho": {
+          "hip_dysplasia": 0.15
+        },
+        "skin": {
+          "zinc_deficiency": 0.1
+        },
+        "autoimmune": {
+          "sle": 0.05
+        }
+      }
+    },
+    "шарпей": {
+      "size": "medium",
+      "weight": [
+        18,
+        25
+      ],
+      "life": [
+        8,
+        12
+      ],
+      "risks": {
+        "skin": {
+          "atopy": 0.5,
+          "mucinosis": 0.3
+        },
+        "eyes": {
+          "entropion": 0.5
+        },
+        "kidney": {
+          "amyloidosis": 0.15
+        },
+        "immune": {
+          "familiar_sharpei_fever": 0.3
+        }
+      }
+    },
+    "золотистый ретривер": {
+      "size": "large",
+      "weight": [
+        25,
+        34
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "elbow_dysplasia": 0.1
+        },
+        "cancer": {
+          "lymphoma": 0.1,
+          "hemangiosarcoma": 0.08
+        },
+        "heart": {
+          "aortic_stenosis": 0.05
+        }
+      }
+    },
+    "ротвейлер": {
+      "size": "large",
+      "weight": [
+        35,
+        60
+      ],
+      "life": [
+        8,
+        10
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "elbow_dysplasia": 0.25
+        },
+        "cancer": {
+          "osteosarcoma": 0.1,
+          "lymphoma": 0.08
+        },
+        "heart": {
+          "aortic_stenosis": 0.1
+        }
+      }
+    },
+    "далматин": {
+      "size": "large",
+      "weight": [
+        20,
+        27
+      ],
+      "life": [
+        10,
+        13
+      ],
+      "risks": {
+        "kidney": {
+          "urate_stones": 0.3
+        },
+        "skin": {
+          "atopy": 0.3
+        },
+        "neuro": {
+          "deafness": 0.2
+        },
+        "ortho": {
+          "hip_dysplasia": 0.1
+        }
+      }
+    },
+    "акита-ину": {
+      "size": "large",
+      "weight": [
+        32,
+        45
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3
+        },
+        "endocrine": {
+          "hypothyroidism": 0.2
+        },
+        "eyes": {
+          "pra": 0.1,
+          "vkh": 0.05
+        },
+        "immune": {
+          "sebaceous_adenitis": 0.1
+        }
+      }
+    },
+    "самоед": {
+      "size": "large",
+      "weight": [
+        20,
+        30
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "eyes": {
+          "cataract": 0.15,
+          "glaucoma": 0.1
+        },
+        "heart": {
+          "aortic_stenosis": 0.05
+        },
+        "kidney": {
+          "glomerulopathy": 0.1
+        }
+      }
+    },
+    "бернский зенненхунд": {
+      "size": "large",
+      "weight": [
+        35,
+        50
+      ],
+      "life": [
+        6,
+        8
+      ],
+      "risks": {
+        "cancer": {
+          "histiocytic_sarcoma": 0.25,
+          "mast_cell": 0.15
+        },
+        "ortho": {
+          "hip_dysplasia": 0.25,
+          "elbow_dysplasia": 0.2
+        },
+        "heart": {
+          "dcm": 0.1
+        }
+      }
+    },
+    "кане-корсо": {
+      "size": "large",
+      "weight": [
+        40,
+        50
+      ],
+      "life": [
+        9,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "elbow_dysplasia": 0.2
+        },
+        "heart": {
+          "dcm": 0.15
+        },
+        "eyes": {
+          "cherry_eye": 0.2,
+          "entropion": 0.2
+        },
+        "gi": {
+          "gdv": 0.2
+        }
+      }
+    },
+    "восточно-европейская овчарка": {
+      "size": "large",
+      "weight": [
+        30,
+        50
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "elbow_dysplasia": 0.2
+        },
+        "gi": {
+          "gdv": 0.15
+        },
+        "neuro": {
+          "epilepsy": 0.08
+        }
+      }
+    },
+    "немецкий дог": {
+      "size": "giant",
+      "weight": [
+        45,
+        90
+      ],
+      "life": [
+        7,
+        10
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.5
+        },
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "wobbler": 0.2
+        },
+        "gi": {
+          "gdv": 0.4
+        },
+        "cancer": {
+          "osteosarcoma": 0.1
+        }
+      }
+    },
+    "сенбернар": {
+      "size": "giant",
+      "weight": [
+        55,
+        90
+      ],
+      "life": [
+        8,
+        10
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.4,
+          "elbow_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.15
+        },
+        "eyes": {
+          "entropion": 0.3
+        },
+        "gi": {
+          "gdv": 0.3
+        }
+      }
+    },
+    "ирландский волкодав": {
+      "size": "giant",
+      "weight": [
+        40,
+        70
+      ],
+      "life": [
+        6,
+        8
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.5
+        },
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "cancer": {
+          "osteosarcoma": 0.15
+        },
+        "gi": {
+          "gdv": 0.3
+        }
+      }
+    },
+    "мастиф английский": {
+      "size": "giant",
+      "weight": [
+        55,
+        100
+      ],
+      "life": [
+        6,
+        10
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.4,
+          "elbow_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.2
+        },
+        "eyes": {
+          "entropion": 0.3
+        },
+        "gi": {
+          "gdv": 0.3
+        }
+      }
+    },
+    "пекинес": {
+      "size": "small",
+      "weight": [
+        3.2,
+        6.4
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.7
+        },
+        "eyes": {
+          "corneal_ulcer": 0.3
+        },
+        "ortho": {
+          "patellar_luxation": 0.2
+        },
+        "heart": {
+          "mitral_valve_disease": 0.3
+        }
+      }
+    },
+    "керн-терьер": {
+      "size": "small",
+      "weight": [
+        6,
+        7.5
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.2
+        },
+        "eyes": {
+          "cataract": 0.15
+        },
+        "liver": {
+          "portosystemic_shunt": 0.1
+        }
+      }
+    },
+    "шелти": {
+      "size": "small",
+      "weight": [
+        6,
+        10
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "eyes": {
+          "collie_eye": 0.1,
+          "pra": 0.1
+        },
+        "ortho": {
+          "hip_dysplasia": 0.1
+        },
+        "heart": {
+          "patent_ductus": 0.05
+        },
+        "dermatomyositis": 0.05
+      }
+    },
+    "бассет-хаунд": {
+      "size": "medium",
+      "weight": [
+        20,
+        30
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "elbow_dysplasia": 0.15
+        },
+        "eyes": {
+          "glaucoma": 0.15
+        },
+        "ear": {
+          "otitis": 0.5
+        },
+        "gi": {
+          "gdv": 0.15
+        }
+      }
+    },
+    "аляскинский маламут": {
+      "size": "large",
+      "weight": [
+        34,
+        39
+      ],
+      "life": [
+        10,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.25
+        },
+        "eyes": {
+          "cataract": 0.2
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        },
+        "neuro": {
+          "polyneuropathy": 0.05
+        }
+      }
+    },
+    "ньюфаундленд": {
+      "size": "giant",
+      "weight": [
+        55,
+        80
+      ],
+      "life": [
+        8,
+        10
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.2,
+          "subvalvular_aortic_stenosis": 0.15
+        },
+        "ortho": {
+          "hip_dysplasia": 0.3
+        },
+        "gi": {
+          "gdv": 0.2
+        }
+      }
+    },
+    "афганская борзая": {
+      "size": "large",
+      "weight": [
+        20,
+        27
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.15
+        },
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "eyes": {
+          "cataract": 0.2
+        }
+      }
+    },
+    "басенджи": {
+      "size": "medium",
+      "weight": [
+        9.5,
+        11
+      ],
+      "life": [
+        13,
+        14
+      ],
+      "risks": {
+        "kidney": {
+          "fanconi_syndrome": 0.1
+        },
+        "eyes": {
+          "pra": 0.08
+        },
+        "endocrine": {
+          "hypothyroidism": 0.1
+        }
+      }
+    },
+    "бельгийская овчарка": {
+      "size": "large",
+      "weight": [
+        20,
+        30
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "eyes": {
+          "cataract": 0.1
+        },
+        "neuro": {
+          "epilepsy": 0.15
+        },
+        "cancer": {
+          "hemangiosarcoma": 0.1
+        }
+      }
+    },
+    "бишон-фризе": {
+      "size": "small",
+      "weight": [
+        5,
+        10
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "eyes": {
+          "cataract": 0.2
+        },
+        "dental": {
+          "periodontal": 0.6
+        },
+        "immune": {
+          "allergies": 0.4
+        }
+      }
+    },
+    "бордер-колли": {
+      "size": "medium",
+      "weight": [
+        14,
+        20
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.15
+        },
+        "eyes": {
+          "pra": 0.1,
+          "collie_eye": 0.05
+        },
+        "neuro": {
+          "epilepsy": 0.15
+        }
+      }
+    },
+    "бордер-терьер": {
+      "size": "small",
+      "weight": [
+        5,
+        7
+      ],
+      "life": [
+        13,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": 0.1
+        },
+        "ortho": {
+          "patellar_luxation": 0.15
+        },
+        "neuro": {
+          "epilepsy": 0.05
+        }
+      }
+    },
+    "босерон": {
+      "size": "large",
+      "weight": [
+        30,
+        40
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "gi": {
+          "gdv": 0.15
+        }
+      }
+    },
+    "бостон-терьер": {
+      "size": "small",
+      "weight": [
+        6,
+        11
+      ],
+      "life": [
+        11,
+        13
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.5
+        },
+        "eyes": {
+          "cataract": 0.2,
+          "corneal_ulcer": 0.15
+        },
+        "ortho": {
+          "patellar_luxation": 0.2
+        }
+      }
+    },
+    "бриар": {
+      "size": "large",
+      "weight": [
+        23,
+        40
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "gi": {
+          "gdv": 0.15
+        }
+      }
+    },
+    "бульмастиф": {
+      "size": "giant",
+      "weight": [
+        45,
+        59
+      ],
+      "life": [
+        7,
+        9
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.4,
+          "elbow_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.2
+        },
+        "gi": {
+          "gdv": 0.3
+        },
+        "eyes": {
+          "entropion": 0.3
+        }
+      }
+    },
+    "веймаранер": {
+      "size": "large",
+      "weight": [
+        25,
+        40
+      ],
+      "life": [
+        10,
+        13
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "gi": {
+          "gdv": 0.2
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        }
+      }
+    },
+    "вельш-корги-кардиган": {
+      "size": "medium",
+      "weight": [
+        11,
+        17
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "ivdd": 0.25
+        },
+        "eyes": {
+          "pra": 0.1
+        },
+        "neuro": {
+          "degenerative_myelopathy": 0.1
+        }
+      }
+    },
+    "вельш-корги-пемброк": {
+      "size": "medium",
+      "weight": [
+        10,
+        14
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "ivdd": 0.3
+        },
+        "eyes": {
+          "pra": 0.1
+        },
+        "neuro": {
+          "degenerative_myelopathy": 0.15
+        }
+      }
+    },
+    "вест-хайленд-уайт-терьер": {
+      "size": "small",
+      "weight": [
+        6.8,
+        9
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "skin": {
+          "atopy": 0.5
+        },
+        "resp": {
+          "pulmonary_fibrosis": 0.1
+        },
+        "ortho": {
+          "patellar_luxation": 0.15
+        }
+      }
+    },
+    "голден-ретривер": {
+      "size": "large",
+      "weight": [
+        25,
+        34
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "elbow_dysplasia": 0.1
+        },
+        "cancer": {
+          "lymphoma": 0.1,
+          "hemangiosarcoma": 0.08
+        },
+        "heart": {
+          "aortic_stenosis": 0.05
+        }
+      }
+    },
+    "грейхаунд": {
+      "size": "large",
+      "weight": [
+        27,
+        40
+      ],
+      "life": [
+        10,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.05
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "gi": {
+          "gdv": 0.15
+        },
+        "dental": {
+          "periodontal": 0.3
+        }
+      }
+    },
+    "датский дог": {
+      "size": "giant",
+      "weight": [
+        45,
+        90
+      ],
+      "life": [
+        7,
+        10
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.5
+        },
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "wobbler": 0.2
+        },
+        "gi": {
+          "gdv": 0.4
+        },
+        "cancer": {
+          "osteosarcoma": 0.1
+        }
+      }
+    },
+    "ирландский сеттер": {
+      "size": "large",
+      "weight": [
+        25,
+        32
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "eyes": {
+          "pra": 0.1
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "gi": {
+          "gdv": 0.2
+        }
+      }
+    },
+    "кавалер-кинг-чарльз-спаниель": {
+      "size": "small",
+      "weight": [
+        5.9,
+        8.2
+      ],
+      "life": [
+        9,
+        14
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": 0.9,
+          "chf": 0.5
+        },
+        "neuro": {
+          "syringomyelia": 0.25
+        },
+        "ortho": {
+          "patellar_luxation": 0.2
+        }
+      }
+    },
+    "колли": {
+      "size": "large",
+      "weight": [
+        20,
+        34
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "eyes": {
+          "collie_eye": 0.3,
+          "pra": 0.15
+        },
+        "heart": {
+          "dcm": 0.05
+        },
+        "ortho": {
+          "hip_dysplasia": 0.1
+        }
+      }
+    },
+    "лабрадор-ретривер": {
+      "size": "large",
+      "weight": [
+        25,
+        36
+      ],
+      "life": [
+        10,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "elbow_dysplasia": 0.15,
+          "ccld": 0.1
+        },
+        "endocrine": {
+          "hypothyroidism": 0.1,
+          "obesity": 0.4
+        },
+        "eyes": {
+          "pra": 0.08
+        }
+      }
+    },
+    "маламут": {
+      "size": "large",
+      "weight": [
+        34,
+        39
+      ],
+      "life": [
+        10,
+        14
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.25
+        },
+        "eyes": {
+          "cataract": 0.2
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        }
+      }
+    },
+    "мальтезе": {
+      "size": "small",
+      "weight": [
+        3,
+        4
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.2
+        },
+        "heart": {
+          "mitral_valve_disease": 0.3
+        },
+        "dental": {
+          "periodontal": 0.8
+        }
+      }
+    },
+    "мастиф": {
+      "size": "giant",
+      "weight": [
+        55,
+        100
+      ],
+      "life": [
+        6,
+        10
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.4,
+          "elbow_dysplasia": 0.3
+        },
+        "heart": {
+          "dcm": 0.2
+        },
+        "eyes": {
+          "entropion": 0.3
+        },
+        "gi": {
+          "gdv": 0.3
+        }
+      }
+    },
+    "папильон": {
+      "size": "small",
+      "weight": [
+        3.5,
+        4.5
+      ],
+      "life": [
+        13,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "dental": {
+          "periodontal": 0.5
+        },
+        "eyes": {
+          "pra": 0.08
+        }
+      }
+    },
+    "питбуль": {
+      "size": "medium",
+      "weight": [
+        14,
+        27
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.2,
+          "ccld": 0.15
+        },
+        "skin": {
+          "atopy": 0.4
+        },
+        "heart": {
+          "aortic_stenosis": 0.05
+        }
+      }
+    },
+    "пудель": {
+      "size": "medium",
+      "weight": [
+        12,
+        18
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.15
+        },
+        "eyes": {
+          "cataract": 0.25,
+          "pra": 0.15
+        },
+        "endocrine": {
+          "cushing": 0.1,
+          "hypothyroidism": 0.1
+        }
+      }
+    },
+    "ризеншнауцер": {
+      "size": "large",
+      "weight": [
+        27,
+        41
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.25
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "endocrine": {
+          "hypothyroidism": 0.2
+        },
+        "cancer": {
+          "melanoma": 0.05
+        }
+      }
+    },
+    "французский бульдог": {
+      "size": "medium",
+      "weight": [
+        8,
+        14
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "resp": {
+          "baos": 0.9
+        },
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "ivdd": 0.25
+        },
+        "skin": {
+          "atopy": 0.5
+        },
+        "eyes": {
+          "cherry_eye": 0.3
+        }
+      }
+    },
+    "цвергшнауцер": {
+      "size": "small",
+      "weight": [
+        5,
+        8
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.2
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        },
+        "eyes": {
+          "cataract": 0.2
+        },
+        "pancreatitis": 0.1
+      }
+    },
+    "чау-чау": {
+      "size": "medium",
+      "weight": [
+        20,
+        32
+      ],
+      "life": [
+        9,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "elbow_dysplasia": 0.2
+        },
+        "eyes": {
+          "entropion": 0.4
+        },
+        "skin": {
+          "atopy": 0.3
+        }
+      }
+    },
+    "шепард": {
+      "size": "large",
+      "weight": [
+        30,
+        50
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.3,
+          "elbow_dysplasia": 0.2
+        },
+        "gi": {
+          "gdv": 0.15
+        },
+        "neuro": {
+          "epilepsy": 0.08
+        }
+      }
+    },
+    "шпиц": {
+      "size": "small",
+      "weight": [
+        1.8,
+        3.5
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.4
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        },
+        "resp": {
+          "collapsing_trachea": 0.3
+        },
+        "dental": {
+          "periodontal": 0.8
+        }
+      }
+    },
+    "эрдельтерьер": {
+      "size": "large",
+      "weight": [
+        18,
+        29
+      ],
+      "life": [
+        10,
+        12
+      ],
+      "risks": {
+        "ortho": {
+          "hip_dysplasia": 0.25
+        },
+        "heart": {
+          "dcm": 0.1
+        },
+        "endocrine": {
+          "hypothyroidism": 0.15
+        }
+      }
+    },
+    "японский хин": {
+      "size": "small",
+      "weight": [
+        2,
+        5
+      ],
+      "life": [
+        12,
+        14
+      ],
+      "risks": {
+        "heart": {
+          "mitral_valve_disease": 0.4
+        },
+        "ortho": {
+          "patellar_luxation": 0.3
+        },
+        "eyes": {
+          "cataract": 0.2
+        },
+        "resp": {
+          "baos": 0.3
+        }
+      }
+    }
+  },
+  "diseases": {
+    "пневмония": {
+      "name_en": "Pneumonia",
+      "type": "respiratory_infection",
+      "symptoms": [
+        "кашель",
+        "одышка",
+        "лихорадка",
+        "вялость",
+        "хрипы"
+      ],
+      "auscultation": "влажные хрипы, крепитация",
+      "diagnostics": [
+        "рентген ОГК",
+        "анализ крови",
+        "бронхоальвеолярный лаваж"
+      ],
+      "treatment": [
+        "антибиотики (амоксициллин, марбофлоксацин)",
+        "бронходилататоры"
+      ],
+      "urgent": true
+    },
+    "отёк лёгких": {
+      "name_en": "Pulmonary Edema",
+      "type": "cardiac_respiratory",
+      "symptoms": [
+        "одышка",
+        "кашель с розовой пеной",
+        "цианоз",
+        "слабость"
+      ],
+      "auscultation": "влажные хрипы по всем полям",
+      "diagnostics": [
+        "рентген ОГК",
+        "ЭХО сердца",
+        "BNP тест"
+      ],
+      "treatment": [
+        "фуросемид",
+        "кислород",
+        "пимобендан (при кардиогенном)"
+      ],
+      "urgent": true
+    },
+    "коллапс трахеи": {
+      "name_en": "Tracheal Collapse",
+      "type": "respiratory_structural",
+      "symptoms": [
+        "гусиный кашель",
+        "одышка на выдохе",
+        "цианоз при возбуждении"
+      ],
+      "auscultation": "сухие хрипы на выдохе, стридор",
+      "diagnostics": [
+        "рентген шеи",
+        "трахеоскопия"
+      ],
+      "treatment": [
+        "теофиллин",
+        "контроль веса",
+        "хирургия (стентирование)"
+      ],
+      "urgent": false
+    },
+    "митральная недостаточность": {
+      "name_en": "Mitral Valve Disease",
+      "type": "cardiac_valvular",
+      "symptoms": [
+        "кашель",
+        "одышка",
+        "непереносимость нагрузок",
+        "обмороки"
+      ],
+      "auscultation": "систолический шум над митральным клапаном",
+      "diagnostics": [
+        "ЭХО сердца",
+        "рентген ОГК",
+        "ЭКГ"
+      ],
+      "treatment": [
+        "пимобендан",
+        "фуросемид",
+        "спиронолактон",
+        "беназеприл"
+      ],
+      "urgent": false
+    }
+  },
+  "drug_interactions": {
+    "фуросемид+НПВС": {
+      "risk": "high",
+      "notes": "Нефротоксичность. Не комбинировать!"
+    },
+    "фуросемид+аминогликозиды": {
+      "risk": "high",
+      "notes": "Ототоксичность"
+    },
+    "пимобендан+бета-блокаторы": {
+      "risk": "medium",
+      "notes": "Снижение эффекта пимобендана"
+    },
+    "НПВС+кортикостероиды": {
+      "risk": "high",
+      "notes": "Желудочно-кишечное кровотечение"
+    },
+    "марбофлоксацин+НПВС": {
+      "risk": "medium",
+      "notes": "Риск судорог"
+    },
+    "энрофлоксацин+теофиллин": {
+      "risk": "medium",
+      "notes": "Повышение теофиллина в крови"
+    }
+  },
+  "reference_values": {
+    "dog": {
+      "hr_resting": [
+        60,
+        140
+      ],
+      "hr_tachycardia": 140,
+      "hr_bradycardia": 60,
+      "rr_resting": [
+        10,
+        30
+      ],
+      "rr_tachypnea": 30,
+      "rr_bradypnea": 10,
+      "temp_c": [
+        37.5,
+        39.2
+      ],
+      "temp_fever": 39.2,
+      "temp_hypothermia": 37.5,
+      "spo2_min": 95,
+      "spo2_critical": 90,
+      "weight_kg_by_size": {
+        "small": [
+          1,
+          10
+        ],
+        "medium": [
+          10,
+          25
+        ],
+        "large": [
+          25,
+          45
+        ],
+        "giant": [
+          45,
+          100
+        ]
+      },
+      "common_diseases_by_age": {
+        "puppy": [
+          "парвовирус",
+          "чума",
+          "глисты",
+          "инородные тела"
+        ],
+        "adult": [
+          "аллергия",
+          "травмы",
+          "пиодерма",
+          "гастрит"
+        ],
+        "senior": [
+          "артрит",
+          "сердечная недостаточность",
+          "ХБП",
+          "онкология",
+          "стоматология"
+        ]
+      }
+    },
+    "cat": {
+      "hr_resting": [
+        140,
+        220
+      ],
+      "hr_tachycardia": 220,
+      "hr_bradycardia": 140,
+      "rr_resting": [
+        20,
+        30
+      ],
+      "rr_tachypnea": 30,
+      "rr_bradypnea": 20,
+      "temp_c": [
+        38.0,
+        39.2
+      ],
+      "temp_fever": 39.2,
+      "temp_hypothermia": 38.0,
+      "spo2_min": 95,
+      "spo2_critical": 90,
+      "weight_kg_by_size": {
+        "small": [
+          2,
+          4
+        ],
+        "medium": [
+          4,
+          6
+        ],
+        "large": [
+          6,
+          10
+        ]
+      },
+      "common_diseases_by_age": {
+        "kitten": [
+          "панлейкопения",
+          "калицивироз",
+          "глисты",
+          "конъюнктивит"
+        ],
+        "adult": [
+          "цистит",
+          "астма",
+          "гингивостоматит",
+          "травмы"
+        ],
+        "senior": [
+          "ХБП",
+          "гипертиреоз",
+          "HCM",
+          "артрит",
+          "стоматология"
+        ]
+      },
+      "special_notes": [
+        "Кошки — облигатные хищники. НЕЛЬЗЯ голодание >48 часов (липидоз печени)",
+        "Парацетамол СМЕРТЕЛЕН для кошек",
+        "Лилии СМЕРТЕЛЬНО ТОКСИЧНЫ (ОПП)",
+        "Кошкам нужен ТАУРИН в пище (иначе дилатационная кардиомиопатия + слепота)",
+        "Кошкам нужен АРГИНИН (иначе гипераммониемия за 2-3 часа)"
+      ]
+    }
+  },
+  "metadata": {
+    "version": "2.1",
+    "last_updated": "2026-07-07T16:02:36.237442",
+    "sources": [
+      "PubMed",
+      "MSD Veterinary Manual",
+      "ACVIM Consensus Statements"
+    ],
+    "total_breeds": 75,
+    "total_diseases": 4,
+    "total_cats": 23
+  },
+  "cats": {
+    "абиссинская": {
+      "size": "medium",
+      "weight": [
+        3,
+        5
+      ],
+      "life": [
+        9,
+        15
+      ],
+      "risks": {
+        "kidney": {
+          "ckd": 0.3
+        },
+        "eyes": {
+          "pra": 0.15
+        },
+        "dental": {
+          "gingivostomatitis": 0.2
+        },
+        "neuro": {
+          "feline_hyperesthesia": 0.05
+        }
+      }
+    },
+    "американская короткошёрстная": {
+      "size": "medium",
+      "weight": [
+        3.5,
+        5.5
+      ],
+      "life": [
+        15,
+        20
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "ortho": {
+          "hip_dysplasia": 0.1
+        },
+        "dental": {
+          "periodontal": 0.3
+        }
+      }
+    },
+    "бенгальская": {
+      "size": "medium",
+      "weight": [
+        3.5,
+        6
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.25
+        },
+        "gi": {
+          "ibd": 0.15
+        },
+        "eyes": {
+          "pra": 0.1
+        }
+      }
+    },
+    "бирманская": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        5
+      ],
+      "life": [
+        12,
+        16
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "kidney": {
+          "ckd": 0.2
+        },
+        "neuro": {
+          "spongiform_degeneration": 0.02
+        }
+      }
+    },
+    "британская короткошёрстная": {
+      "size": "medium",
+      "weight": [
+        3.5,
+        7
+      ],
+      "life": [
+        14,
+        20
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.3
+        },
+        "kidney": {
+          "pkd": 0.15
+        },
+        "resp": {
+          "baos": 0.2
+        },
+        "dental": {
+          "gingivostomatitis": 0.15
+        }
+      }
+    },
+    "бурманская": {
+      "size": "medium",
+      "weight": [
+        3,
+        5
+      ],
+      "life": [
+        10,
+        17
+      ],
+      "risks": {
+        "heart": {
+          "dcm": 0.1
+        },
+        "neuro": {
+          "meningoencephalocele": 0.02
+        },
+        "diabetes_mellitus": 0.1,
+        "eyes": {
+          "glaucoma": 0.05
+        }
+      }
+    },
+    "девон-рекс": {
+      "size": "small",
+      "weight": [
+        2.5,
+        4
+      ],
+      "life": [
+        9,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "skin": {
+          "alopecia": 0.1
+        },
+        "ortho": {
+          "patellar_luxation": 0.2
+        }
+      }
+    },
+    "корниш-рекс": {
+      "size": "small",
+      "weight": [
+        2.5,
+        4.5
+      ],
+      "life": [
+        9,
+        13
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.15
+        },
+        "skin": {
+          "alopecia": 0.1
+        },
+        "gi": {
+          "ibd": 0.1
+        }
+      }
+    },
+    "курильский бобтейл": {
+      "size": "medium",
+      "weight": [
+        3,
+        6
+      ],
+      "life": [
+        15,
+        20
+      ],
+      "risks": {
+        "ortho": {
+          "patellar_luxation": 0.1
+        },
+        "heart": {
+          "hcm": 0.1
+        }
+      }
+    },
+    "мейн-кун": {
+      "size": "large",
+      "weight": [
+        4,
+        8
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.35,
+          "dcm": 0.1
+        },
+        "ortho": {
+          "hip_dysplasia": 0.2
+        },
+        "neuro": {
+          "sma": 0.03
+        }
+      }
+    },
+    "норвежская лесная": {
+      "size": "large",
+      "weight": [
+        4,
+        7
+      ],
+      "life": [
+        14,
+        16
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "kidney": {
+          "pkd": 0.1
+        },
+        "ortho": {
+          "hip_dysplasia": 0.15
+        }
+      }
+    },
+    "ориентальная": {
+      "size": "medium",
+      "weight": [
+        3,
+        5
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.15
+        },
+        "resp": {
+          "asthma": 0.2
+        },
+        "gi": {
+          "ibd": 0.1
+        },
+        "liver": {
+          "amyloidosis": 0.05
+        }
+      }
+    },
+    "персидская": {
+      "size": "medium",
+      "weight": [
+        3,
+        5.5
+      ],
+      "life": [
+        10,
+        17
+      ],
+      "risks": {
+        "kidney": {
+          "pkd": 0.4
+        },
+        "heart": {
+          "hcm": 0.2
+        },
+        "resp": {
+          "baos": 0.5
+        },
+        "eyes": {
+          "entropion": 0.15
+        },
+        "dental": {
+          "periodontal": 0.4
+        }
+      }
+    },
+    "рэгдолл": {
+      "size": "large",
+      "weight": [
+        3.5,
+        7
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.35
+        },
+        "kidney": {
+          "ckd": 0.15
+        },
+        "gi": {
+          "megacolon": 0.05
+        }
+      }
+    },
+    "сиамская": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        5
+      ],
+      "life": [
+        12,
+        20
+      ],
+      "risks": {
+        "resp": {
+          "asthma": 0.25
+        },
+        "gi": {
+          "megacolon": 0.05
+        },
+        "neuro": {
+          "hydrocephalus": 0.02
+        },
+        "eyes": {
+          "glaucoma": 0.08
+        }
+      }
+    },
+    "сибирская": {
+      "size": "medium",
+      "weight": [
+        3.5,
+        6
+      ],
+      "life": [
+        11,
+        15
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "kidney": {
+          "pkd": 0.1
+        }
+      }
+    },
+    "скоттиш-фолд": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        5
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "osteochondrodysplasia": 0.8
+        },
+        "heart": {
+          "hcm": 0.2
+        },
+        "kidney": {
+          "pkd": 0.1
+        }
+      }
+    },
+    "сомалийская": {
+      "size": "medium",
+      "weight": [
+        3,
+        4.5
+      ],
+      "life": [
+        11,
+        16
+      ],
+      "risks": {
+        "kidney": {
+          "ckd": 0.2
+        },
+        "eyes": {
+          "pra": 0.1
+        },
+        "dental": {
+          "gingivostomatitis": 0.2
+        }
+      }
+    },
+    "сфинкс": {
+      "size": "small",
+      "weight": [
+        2.5,
+        4
+      ],
+      "life": [
+        8,
+        14
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.3
+        },
+        "skin": {
+          "dermatitis": 0.4
+        },
+        "neuro": {
+          "myopathy": 0.05
+        }
+      }
+    },
+    "тонкинская": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        4.5
+      ],
+      "life": [
+        10,
+        16
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.15
+        },
+        "resp": {
+          "asthma": 0.1
+        },
+        "eyes": {
+          "nystagmus": 0.05
+        }
+      }
+    },
+    "турецкая ангора": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        5
+      ],
+      "life": [
+        12,
+        18
+      ],
+      "risks": {
+        "heart": {
+          "hcm": 0.2
+        },
+        "kidney": {
+          "ckd": 0.15
+        },
+        "neuro": {
+          "ataxia": 0.03
+        }
+      }
+    },
+    "шотландская вислоухая": {
+      "size": "medium",
+      "weight": [
+        2.5,
+        5
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "ortho": {
+          "osteochondrodysplasia": 0.8
+        },
+        "heart": {
+          "hcm": 0.2
+        }
+      }
+    },
+    "экзотическая": {
+      "size": "medium",
+      "weight": [
+        3,
+        5
+      ],
+      "life": [
+        12,
+        15
+      ],
+      "risks": {
+        "kidney": {
+          "pkd": 0.3
+        },
+        "resp": {
+          "baos": 0.5
+        },
+        "heart": {
+          "hcm": 0.15
+        }
+      }
+    }
+  }
+}
