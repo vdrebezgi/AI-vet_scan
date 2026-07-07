@@ -1,0 +1,5091 @@
+[
+  {
+    "name": "GAMITHROMYCIN",
+    "brand": "ZACTRAN",
+    "ndc": "0010-7215-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/07767205-088d-479f-87b9-ef30924fda29/07767205-088d-479f-87b9-ef30924fda29.xml",
+    "category": "NADA",
+    "dose_mg_kg": 6.0,
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LEVOTHYROXINE SODIUM",
+    "brand": "Thyro-Tabs Canine",
+    "ndc": "11789-257-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c9adc037-1512-4b05-8279-9b20408d0d38/c9adc037-1512-4b05-8279-9b20408d0d38.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.02,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "гипотиреоз"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "ENROFLOXACIN",
+    "brand": "Enrosite Flavored",
+    "ndc": "13985-978-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ad5829e8-2a97-4ff2-9f83-56556521a5bc/ad5829e8-2a97-4ff2-9f83-56556521a5bc.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "PIMOBENDAN",
+    "brand": "CaniBendan",
+    "ndc": "86136-162-36",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/290de60b-69a1-48c4-9214-fbed7b820bbb/290de60b-69a1-48c4-9214-fbed7b820bbb.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "сердечная недостаточность",
+      "митральная недостаточность",
+      "ДКМП"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "OXYTETRACYCLINE",
+    "brand": "Bio-Mycin 200",
+    "ndc": "0010-4753-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0023cab1-4586-4d1e-b6e3-40ce327e1659/0023cab1-4586-4d1e-b6e3-40ce327e1659.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SELAMECTIN",
+    "brand": "Revolt",
+    "ndc": "51072-098-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3135bb50-bcdb-4af5-8b2d-8faad65b31cd/3135bb50-bcdb-4af5-8b2d-8faad65b31cd.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 6,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "блохи",
+      "глисты",
+      "чесоточные клещи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "TYLOSIN",
+    "brand": "BiloVet",
+    "ndc": "61133-4011-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6b1ffd0e-e51b-49e9-82c1-0c41e302d342/6b1ffd0e-e51b-49e9-82c1-0c41e302d342.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLUOXETINE HYDROCHLORIDE",
+    "brand": "RECONCILE",
+    "ndc": "49427-340-44",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d50f02de-7585-46cb-9774-6e7f395fd3e8/d50f02de-7585-46cb-9774-6e7f395fd3e8.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "тревожность",
+      "агрессия"
+    ],
+    "source": "known_database"
+  },
+  {
+    "name": "AFOXOLANER, MOXIDECTIN AND PYRANTEL",
+    "brand": "NexGard PLUS",
+    "ndc": "0010-4263-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ceeaa8ca-b043-49d2-99f9-5d2305609fdb/ceeaa8ca-b043-49d2-99f9-5d2305609fdb.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "SELAMECTIN AND SAROLANER",
+    "brand": "REVOLUTION PLUS",
+    "ndc": "54771-0412-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/49243284-2450-49f9-ba05-f3cc178c6927/49243284-2450-49f9-ba05-f3cc178c6927.xml",
+    "category": "NADA",
+    "dose_mg_kg": 6,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "блохи",
+      "глисты",
+      "чесоточные клещи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "HETACILLIN POTASSIUM",
+    "brand": "PolyMast",
+    "ndc": "0010-4722-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0db59889-39d9-4049-8f22-b6325d58ee26/0db59889-39d9-4049-8f22-b6325d58ee26.xml",
+    "category": "NADA",
+    "indications": [
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IVERMECTIN AND PYRANTEL PAMOATE",
+    "brand": "HEARTGARD Plus",
+    "ndc": "0010-4012-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/393b9c09-ee69-4daa-91f6-aaffd4e49d47/393b9c09-ee69-4daa-91f6-aaffd4e49d47.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.006,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "MARBOFLOXACIN",
+    "brand": "Marboquin",
+    "ndc": "17033-015-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/568c824f-7c9d-475a-902d-e409afc6388e/568c824f-7c9d-475a-902d-e409afc6388e.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2.75,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "инфекции мягких тканей"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "SEVOFLURANE",
+    "brand": "FlurovessTM",
+    "ndc": "13985-711-25",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/acec1737-69e5-43b6-a5c4-024da78722a7/acec1737-69e5-43b6-a5c4-024da78722a7.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "NITROUS OXIDE",
+    "brand": "Nitrous Oxide",
+    "ndc": "10014-013-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2f6e1d85-ab60-4c1b-b0e8-3a2fa5d5cde7/2f6e1d85-ab60-4c1b-b0e8-3a2fa5d5cde7.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TILMICOSIN PHOSPHATE",
+    "brand": "Pulmotil AC",
+    "ndc": "58198-0470-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/1ac0dbea-44b2-49fa-b9eb-e94fad982738/1ac0dbea-44b2-49fa-b9eb-e94fad982738.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLORFENICOL, TERBINAFINE, BETAMETHASONE ACETATE",
+    "brand": "Osurnia",
+    "ndc": "17033-283-20",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2e50e5ce-054b-4b9d-9524-7f62a044ac8b/2e50e5ce-054b-4b9d-9524-7f62a044ac8b.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TRIMETHOPRIM AND SULFADIAZINE",
+    "brand": "UNIPRIM",
+    "ndc": "59051-3010-6",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b044e77e-28a1-4894-9a95-9e70c946d419/b044e77e-28a1-4894-9a95-9e70c946d419.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5.0,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "XYLAZINE",
+    "brand": "Anased",
+    "ndc": "69043-043-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3f2a8b5c-4848-46e2-8d39-8a3dfd50a2de/3f2a8b5c-4848-46e2-8d39-8a3dfd50a2de.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARPROFEN (FLAVORED)",
+    "brand": "OstiFen",
+    "ndc": "86136-112-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ffefdb2d-e902-43c6-8016-1d49fe7af8ed/ffefdb2d-e902-43c6-8016-1d49fe7af8ed.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.4,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "PRAZIQUANTEL",
+    "brand": "Praziquantel",
+    "ndc": "86101-020-13",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3d13a4f4-3df5-489b-9fa3-07e728e02f0f/3d13a4f4-3df5-489b-9fa3-07e728e02f0f.xml",
+    "category": "ANADA",
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "source": "vet_dosages",
+    "dose_mg_kg": 5,
+    "frequency_h": "single",
+    "indications": [
+      "цестоды (ленточные глисты)"
+    ]
+  },
+  {
+    "name": "CARPROFEN",
+    "brand": "Carprovet Flavored",
+    "ndc": "17033-341-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5c71229e-4e1a-4d3e-82b4-df2c5f8c1144/5c71229e-4e1a-4d3e-82b4-df2c5f8c1144.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.4,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "OCLACITINIB MALEATE",
+    "brand": "Apoquel",
+    "ndc": "54771-8722-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a919398e-5b57-41e7-8591-c6011d99d848/a919398e-5b57-41e7-8591-c6011d99d848.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "атопия",
+      "аллергический дерматит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "CEFPODOXIME PROXETIL",
+    "brand": "Cefpodoxime Proxetil",
+    "ndc": "86101-034-71",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b584b6f3-54ce-499f-a9de-a04ffed3ade3/b584b6f3-54ce-499f-a9de-a04ffed3ade3.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 10.0,
+    "species": [
+      "dog",
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ISOFLURANE",
+    "brand": "Isoflurane",
+    "ndc": "68504-010-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7e313a43-19cc-4657-9003-734d2b75bbf5/7e313a43-19cc-4657-9003-734d2b75bbf5.xml",
+    "category": "ANADA",
+    "species": [
+      "dog",
+      "cat",
+      "horse"
+    ],
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "THIABENDAZOLE, DEXAMETHASONE, NEOMYCIN SULFATE",
+    "brand": "TRESADERM",
+    "ndc": "0010-5587-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/bba6712f-5ea4-4af5-8e1e-3e59ecc6e07b/bba6712f-5ea4-4af5-8e1e-3e59ecc6e07b.xml",
+    "category": "NADA",
+    "route": "topical",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLORFENICOL AND FLUNIXIN MEGLUMINE",
+    "brand": "Resflor Gold",
+    "ndc": "0061-4305-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a991bd52-eda5-4cb7-b246-ec52c590670a/a991bd52-eda5-4cb7-b246-ec52c590670a.xml",
+    "category": "NADA",
+    "dose_mg_kg": 40.0,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PENICILLIN G PROCAINE",
+    "brand": "PenOne Pro",
+    "ndc": "13985-036-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6221e934-11ef-4081-88f9-f39d371ab6aa/6221e934-11ef-4081-88f9-f39d371ab6aa.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MAROPITANT CITRATE",
+    "brand": "Maropitant Citrate",
+    "ndc": "86101-047-06",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/55cf12dc-17b0-4340-b6e2-e454c47fef0c/55cf12dc-17b0-4340-b6e2-e454c47fef0c.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "рвота",
+      "укачивание"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "PERGOLIDE",
+    "brand": "Zygolide",
+    "ndc": "17033-907-06",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/f366148e-5b72-4853-b867-b403dd649eaf/f366148e-5b72-4853-b867-b403dd649eaf.xml",
+    "category": "ANADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FIROCOXIB",
+    "brand": "Firox",
+    "ndc": "55529-191-22",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fe8c6d9d-0b93-41eb-862e-79804d8d1548/fe8c6d9d-0b93-41eb-862e-79804d8d1548.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "остеоартрит",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "CYCLOSPORINE",
+    "brand": "Atopica",
+    "ndc": "58198-4351-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0410ff11-81b4-4f3f-ba91-d08da553d0c3/0410ff11-81b4-4f3f-ba91-d08da553d0c3.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "атопия",
+      "иммуноопосредованные заболевания"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "FUROSEMIDE",
+    "brand": "Furosemide",
+    "ndc": "11695-0092-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e1bf1978-b1ff-48ed-b718-cfb1ae390fb8/e1bf1978-b1ff-48ed-b718-cfb1ae390fb8.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "отёк лёгких",
+      "сердечная недостаточность",
+      "асцит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "MUPIROCIN",
+    "brand": "Mupirocin",
+    "ndc": "51672-1354-0",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ebc1a670-7324-4a71-b1dd-a37f5ec94ea2/ebc1a670-7324-4a71-b1dd-a37f5ec94ea2.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "topical",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ZINC OXIDE, MANGANESE CARBONATE, SODIUM SELENITE, COPPER CARBONATE",
+    "brand": "Multimin 90",
+    "ndc": "49920-006-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/31ab3f6a-46a7-4687-b71f-190923a32bf9/31ab3f6a-46a7-4687-b71f-190923a32bf9.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMOXICILLIN AND CLAVULANATE POTASSIUM",
+    "brand": "Betacilin Clav Drops",
+    "ndc": "86136-011-15",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/46691a49-cc6b-4046-94de-f396434c6370/46691a49-cc6b-4046-94de-f396434c6370.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 15,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции дыхательных путей",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "2-(CYCLOHEXYLCARBONYL)-1,2,3,6,7,11B-HEXAHYDRO-4H-PYRAZINO(2,1-A)ISOQUINOLIN-4-ONE, EMODEPSIDE",
+    "brand": "Profender",
+    "ndc": "58198-0059-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6ab3ccd7-7378-4b98-b2e6-ed4388e3cadd/6ab3ccd7-7378-4b98-b2e6-ed4388e3cadd.xml",
+    "category": "NADA",
+    "dose_mg_kg": 3.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARBON DIOXIDE/OXYGEN MIX",
+    "brand": "Carbon Dioxide/Oxygen Mix",
+    "ndc": "12213-727-64",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/518aeb41-30d6-4532-a5e0-dae1cc4662a1/518aeb41-30d6-4532-a5e0-dae1cc4662a1.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLOPROSTENOL SODIUM",
+    "brand": "SYNCHSURE",
+    "ndc": "0010-3549-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a97d18c9-13a8-4405-9ccf-49ca3963aead/a97d18c9-13a8-4405-9ccf-49ca3963aead.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ATIPAMEZOLE HYDROCHLORIDE",
+    "brand": "Atipamezole Hydrochloride",
+    "ndc": "86101-068-41",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/59f04402-79de-4d5b-8ccc-53e082f39559/59f04402-79de-4d5b-8ccc-53e082f39559.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLOMIPRAMINE HYDROCHLORIDE",
+    "brand": "CaniQuell",
+    "ndc": "13985-974-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6a9081a7-8dec-4cd6-842e-1db46bea77f6/6a9081a7-8dec-4cd6-842e-1db46bea77f6.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PENICILLIN G POTASSIUM",
+    "brand": "PenAqua Sol-G",
+    "ndc": "61133-4019-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e72acc18-dd73-4c76-92af-635d754cf209/e72acc18-dd73-4c76-92af-635d754cf209.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFADIAZINE AND TRIMETHOPRIM",
+    "brand": "Equisul-SDT",
+    "ndc": "51072-020-00",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a7db509f-2c0a-40ef-a92f-05507b5812ee/a7db509f-2c0a-40ef-a92f-05507b5812ee.xml",
+    "category": "NADA",
+    "dose_mg_kg": 24.0,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DEXMEDETOMIDINE HYDROCHLORIDE",
+    "brand": "Dexdomitor",
+    "ndc": "54771-2805-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/bd30d4a1-7f03-4eda-b090-e17103772343/bd30d4a1-7f03-4eda-b090-e17103772343.xml",
+    "category": "NADA",
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "METHIMAZOLE",
+    "brand": "Methimazole",
+    "ndc": "11695-7049-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/76d06942-9677-4fa2-bf4c-276e28409eab/76d06942-9677-4fa2-bf4c-276e28409eab.xml",
+    "category": "ANADA",
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "гипертиреоз"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2.5,
+    "frequency_h": 12
+  },
+  {
+    "name": "OXYGEN NITROGEN MIXTURE",
+    "brand": "Oxygen Nitrogen Mixture",
+    "ndc": "21220-030-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d8d4351e-d97e-4561-b1f3-a2ef82cba414/d8d4351e-d97e-4561-b1f3-a2ef82cba414.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MELOXICAM",
+    "brand": "Metacam",
+    "ndc": "0010-6015-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fdbea921-6e81-4b9e-a054-1f5694b7d3a5/fdbea921-6e81-4b9e-a054-1f5694b7d3a5.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.2,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "FLUNIXIN MEGLUMINE",
+    "brand": "Flunixin-S",
+    "ndc": "55529-030-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/96c868d1-cf83-41d2-82ea-c15ff47696b6/96c868d1-cf83-41d2-82ea-c15ff47696b6.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2.2,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TULATHROMYCIN",
+    "brand": "Arovyn",
+    "ndc": "0061-6607-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/f5cea869-babd-4b0d-ad3f-a16fc9e38f92/f5cea869-babd-4b0d-ad3f-a16fc9e38f92.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2.5,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN SULFATE, MOMETASONE FUROATE MONOHYDRATE, AND CLOTRIMAZOLE",
+    "brand": "MotaZol",
+    "ndc": "13985-701-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/76871c52-e3ee-4cb9-b28d-da179c7a9070/76871c52-e3ee-4cb9-b28d-da179c7a9070.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PRADOFLOXACIN",
+    "brand": "Veraflox",
+    "ndc": "58198-0039-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/73d3dd51-5917-493b-996c-202311db33ba/73d3dd51-5917-493b-996c-202311db33ba.xml",
+    "category": "NADA",
+    "dose_mg_kg": 7.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SPIRONOLACTONE AND BENAZEPRIL HYDROCHLORIDE",
+    "brand": "CARDALIS",
+    "ndc": "13744-809-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2ead9bf1-2969-492f-86b6-1e88bb33c874/2ead9bf1-2969-492f-86b6-1e88bb33c874.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "сердечная недостаточность",
+      "гипертензия",
+      "ХБП"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "ESAFOXOLANER, EPRINOMECTIN, AND PRAZIQUANTEL",
+    "brand": "NexGard COMBO",
+    "ndc": "0010-4121-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/50733587-3917-43be-bb10-1ac289b5e433/50733587-3917-43be-bb10-1ac289b5e433.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "цестоды (ленточные глисты)"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "single"
+  },
+  {
+    "name": "TRIPELENNAMINE HYDROCHLORIDE",
+    "brand": "RE-COVR",
+    "ndc": "51031-025-25",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/59f99ce3-d705-4cf1-bc65-249b50754a9d/59f99ce3-d705-4cf1-bc65-249b50754a9d.xml",
+    "category": "NADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN, POSACONAZOLE, AND MOMETASONE FUROATE OTIC SUSPENSION",
+    "brand": "Mometamax Single",
+    "ndc": "0061-5432-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/992ca306-a52a-4cc0-be1e-2e140761b978/992ca306-a52a-4cc0-be1e-2e140761b978.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DERACOXIB",
+    "brand": "DOXIDYL Chewable",
+    "ndc": "13744-530-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/63b9e892-7679-425f-a768-38e94c9069cf/63b9e892-7679-425f-a768-38e94c9069cf.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "артрит",
+      "паразиты",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SAROLANER, MOXIDECTIN, AND PYRANTEL",
+    "brand": "Simparica TRIO",
+    "ndc": "54771-2669-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3c151b98-6bda-4eeb-9d30-8a980b162474/3c151b98-6bda-4eeb-9d30-8a980b162474.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "FLORFENICOL",
+    "brand": "Nuflor",
+    "ndc": "0061-1116-06",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/86938034-50aa-441b-a6c7-2bfc7e67bb8c/86938034-50aa-441b-a6c7-2bfc7e67bb8c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 20.0,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PREDNISOLONE",
+    "brand": "PrednisTab",
+    "ndc": "11789-249-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7e139646-a829-4854-b2c7-09d159c3c2ed/7e139646-a829-4854-b2c7-09d159c3c2ed.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "species": [
+      "cat"
+    ],
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "GENTAMICIN SULFATE",
+    "brand": "GentaMed",
+    "ndc": "61133-5135-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/43a183ef-57f7-447b-89d4-3c7950d25c16/43a183ef-57f7-447b-89d4-3c7950d25c16.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYTETRACYCLINE HCL",
+    "brand": "Tetroxy HCA",
+    "ndc": "61133-5010-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a8755727-65d8-490d-8cd9-bb7479dd1971/a8755727-65d8-490d-8cd9-bb7479dd1971.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PHENYLPROPANOLOAMINE HYDROCHLORIDE",
+    "brand": "PhenylPro 50",
+    "ndc": "49427-921-48",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d197daff-589b-4400-aac1-3839d578eb2e/d197daff-589b-4400-aac1-3839d578eb2e.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TYLOSIN TARTRATE",
+    "brand": "Tylosin Tartrate",
+    "ndc": "46066-504-48",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c8ff5df1-ea94-417f-b91d-1d74e3c047e1/c8ff5df1-ea94-417f-b91d-1d74e3c047e1.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TRIMEPRAZINE TARTRATE AND PREDNISOLONE",
+    "brand": "Temaril-P",
+    "ndc": "54771-8550-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/129bc39c-81bc-4ec0-976a-5f8ee9edba67/129bc39c-81bc-4ec0-976a-5f8ee9edba67.xml",
+    "category": "NADA",
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "TRENBOLONE ACETATE, ESTRADIOL, TYLOSIN TARTRATE",
+    "brand": "Component TE-200 With Tylan",
+    "ndc": "58198-0513-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c0d634b9-9ace-44a6-905e-39d8cbc02d40/c0d634b9-9ace-44a6-905e-39d8cbc02d40.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ILUNOCITINIB",
+    "brand": "Zenrelia",
+    "ndc": "58198-5536-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d01999df-3573-4573-a5b2-6da51dbe4fb8/d01999df-3573-4573-a5b2-6da51dbe4fb8.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.8,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "паразиты",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LOTILANER, MOXIDECTIN, PRAZIQUANTEL, AND PYRANTEL CHEWABLE",
+    "brand": "Credelio Quattro",
+    "ndc": "58198-5826-6",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/01194637-3299-4115-a6dc-b0b7d40ee3b6/01194637-3299-4115-a6dc-b0b7d40ee3b6.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "цестоды (ленточные глисты)"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "single"
+  },
+  {
+    "name": "CARBON DIOXIDE OXYGEN",
+    "brand": "Carbon Dioxide Oxygen",
+    "ndc": "51887-201-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/1a33d329-9cc6-4799-ab54-1aa4115c165c/1a33d329-9cc6-4799-ab54-1aa4115c165c.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LINCOMYCIN HYDROCHLORIDE AND SPECTINOMYCIN SULFATE TETRAHYDRATE",
+    "brand": "L-S 50",
+    "ndc": "66104-1108-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3061004f-0271-4e17-b654-c4486a14d58c/3061004f-0271-4e17-b654-c4486a14d58c.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PHENYLPROPANOLAMINE HYDROCHLORIDE",
+    "brand": "Proin 25",
+    "ndc": "49427-315-48",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/429fda02-05a6-41b1-bab2-1fce98566d02/429fda02-05a6-41b1-bab2-1fce98566d02.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LINCOMYCIN HYDROCHLORIDE",
+    "brand": "LinxMed-SP",
+    "ndc": "61133-5482-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c62a51ab-ca9f-4809-b48b-601af8764636/c62a51ab-ca9f-4809-b48b-601af8764636.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DETOMIDINE HYDROCHLORIDE",
+    "brand": "Dormosedan Sterile",
+    "ndc": "54771-6290-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7da27da1-0f78-49d0-9eca-b631dbff8c86/7da27da1-0f78-49d0-9eca-b631dbff8c86.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.02,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IMIDACLOPRID, MOXIDECTIN",
+    "brand": "ADVANTAGE MULTI FOR CATS",
+    "ndc": "58198-0055-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0ef5c7f2-fabc-4716-a362-1de83778c017/0ef5c7f2-fabc-4716-a362-1de83778c017.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "IVERMECTIN/PYRANTEL PAMOATE/PRAZIQUANTEL",
+    "brand": "IVERHART MAX Chew",
+    "ndc": "51311-506-06",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/606cbc0e-c0e0-4b92-bc3b-a7e0e1b3cc7f/606cbc0e-c0e0-4b92-bc3b-a7e0e1b3cc7f.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.006,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "AFOXOLANER",
+    "brand": "NexGard",
+    "ndc": "0010-2409-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0594af80-1216-40a8-91c4-65008b5a1edc/0594af80-1216-40a8-91c4-65008b5a1edc.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SAROLANER",
+    "brand": "Simparica Chewables",
+    "ndc": "54771-2016-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/226f4182-e041-4281-b73b-f181e5a16e3f/226f4182-e041-4281-b73b-f181e5a16e3f.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IMIDACLOPRID AND MOXIDECTIN",
+    "brand": "Midamox for Cats",
+    "ndc": "86136-026-23",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/8ecb59d3-3a86-48c8-962e-950266a72335/8ecb59d3-3a86-48c8-962e-950266a72335.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "IMIDACLOPRID/MOXIDECTIN",
+    "brand": "PARASEDGE Multi for Dogs 20.1 - 55 lbs",
+    "ndc": "51311-134-55",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9149b1d1-f2df-4697-8660-f96586ed267a/9149b1d1-f2df-4697-8660-f96586ed267a.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "FLURALANER",
+    "brand": "EXZOLT CATTLE-CA1",
+    "ndc": "0061-1442-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/84319a8b-8bb1-4761-a62d-f1e68c8cf068/84319a8b-8bb1-4761-a62d-f1e68c8cf068.xml",
+    "category": "Conditional NADA",
+    "dose_mg_kg": 25,
+    "route": "oral",
+    "indications": [
+      "блохи",
+      "клещи"
+    ],
+    "source": "vet_dosages",
+    "species": [
+      "dog"
+    ],
+    "frequency_h": "12 weeks"
+  },
+  {
+    "name": "HYALURONATE SODIUM",
+    "brand": "Legend Multi Dose",
+    "ndc": "0010-3142-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a1252d79-3ece-410b-9f56-ebea8e0a6dd8/a1252d79-3ece-410b-9f56-ebea8e0a6dd8.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "KETAMINE HYDROCHLORIDE",
+    "brand": "Zetamine",
+    "ndc": "13985-584-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5a6dfc15-96e9-4ea2-9437-fda9071a5ca8/5a6dfc15-96e9-4ea2-9437-fda9071a5ca8.xml",
+    "category": "NADA",
+    "dose_mg_kg": 11.0,
+    "species": [
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MOLIDUSTAT ORAL",
+    "brand": "Varenzin-CA1",
+    "ndc": "58198-3697-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c2ad91e5-beba-4dbf-aad0-ff5538971415/c2ad91e5-beba-4dbf-aad0-ff5538971415.xml",
+    "category": "Conditional NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LOTILANER",
+    "brand": "Credelio",
+    "ndc": "58198-5452-7",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/13e001bb-f381-49f4-839d-996e8c487cbf/13e001bb-f381-49f4-839d-996e8c487cbf.xml",
+    "category": "NADA",
+    "dose_mg_kg": 20.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SODIUM SELENITE AND .ALPHA.-TOCOPHEROL ACETATE, D-",
+    "brand": "BO-SE",
+    "ndc": "0061-0807-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/85a5e117-326e-4c20-9fb2-820b9a32151c/85a5e117-326e-4c20-9fb2-820b9a32151c.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYGEN, COMPRESSED U.S.P.",
+    "brand": "Oxygen, Compressed U.S.P.",
+    "ndc": "64069-4112-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4fd8e631-d322-4267-bb4e-42e91a2d584d/4fd8e631-d322-4267-bb4e-42e91a2d584d.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PENTOBARBITAL SODIUM AND PHENYTOIN SODIUM",
+    "brand": "Euthanasia Solution",
+    "ndc": "86119-200-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ae235d95-08ae-42a9-ac94-19f4febe92ab/ae235d95-08ae-42a9-ac94-19f4febe92ab.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLUOCINOLONE ACETONIDE AND DIMETHYL SULFOXIDE",
+    "brand": "Synotic Otic Otic",
+    "ndc": "54771-0120-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a4d68212-6798-4c60-8115-6727e391f6c3/a4d68212-6798-4c60-8115-6727e391f6c3.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.125,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DINOPROST TROMETHAMINE",
+    "brand": "Lutalyse HighCon Sterile",
+    "ndc": "54771-1328-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e1f6023c-3add-40d2-bb73-4fd4c049e321/e1f6023c-3add-40d2-bb73-4fd4c049e321.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.0,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CEFTIOFUR",
+    "brand": "Excede Sterile",
+    "ndc": "54771-5224-4",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c19e611c-e97b-497d-8670-a19a29c7e4a4/c19e611c-e97b-497d-8670-a19a29c7e4a4.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.2,
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LINCOMYCIN-SPECTINOMYCIN",
+    "brand": "Lincomycin-Spectinomycin Water Soluble Powder",
+    "ndc": "23243-4240-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fb7212e0-f42e-42a7-8c0b-a8ca516bbf1a/fb7212e0-f42e-42a7-8c0b-a8ca516bbf1a.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GRAPIPRANT",
+    "brand": "Galliprant",
+    "ndc": "58198-5811-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4375b83d-bc5c-459a-b613-b025e539ef39/4375b83d-bc5c-459a-b613-b025e539ef39.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "артрит",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OCLACITINIB CHEWABLE",
+    "brand": "Apoquel Chewable",
+    "ndc": "54771-4323-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/8562aa06-4a6d-42d8-9660-331903f50d31/8562aa06-4a6d-42d8-9660-331903f50d31.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "атопия",
+      "аллергический дерматит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "CYCLOSPORINE ORAL SOLUTION",
+    "brand": "CYCLAVANCE",
+    "ndc": "51311-994-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4082daaa-c7ae-4b25-8aea-5ef9cd6ca207/4082daaa-c7ae-4b25-8aea-5ef9cd6ca207.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "атопия",
+      "иммуноопосредованные заболевания"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "NITROGEN, OXYGEN",
+    "brand": "Air, Compressed",
+    "ndc": "52374-906-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/880a62cc-2c46-4c29-a4c3-dd78c511782f/880a62cc-2c46-4c29-a4c3-dd78c511782f.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ACEPROMAZINE MALEATE",
+    "brand": "ACEPROMAZINE MALEATE",
+    "ndc": "11695-7034-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b287e514-326e-48c2-93de-cf6398127db3/b287e514-326e-48c2-93de-cf6398127db3.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "NEOMYCIN",
+    "brand": "Neomycin",
+    "ndc": "58005-105-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/90d3d354-eeab-4015-a377-e966fdd56d5c/90d3d354-eeab-4015-a377-e966fdd56d5c.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYGEN HELIUM MIXTURE 20/80",
+    "brand": "Oxygen Helium Mixture 20/80",
+    "ndc": "17575-191-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/53f4eca0-c635-4ea9-a817-24df5853d488/53f4eca0-c635-4ea9-a817-24df5853d488.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "NEOMYCIN SULFATE",
+    "brand": "Neo-Sol 50",
+    "ndc": "23243-6755-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/42bff9e3-968f-4423-bfeb-46bdd1224f04/42bff9e3-968f-4423-bfeb-46bdd1224f04.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFAMETHAZINE",
+    "brand": "Sustain III",
+    "ndc": "61133-1331-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7494b858-1d4b-465b-a2cd-d0f0ebec29b1/7494b858-1d4b-465b-a2cd-d0f0ebec29b1.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ORBIFLOXACIN, MOMETASONE FUROATE, AND POSACONAZOLE",
+    "brand": "Posatex",
+    "ndc": "0061-0089-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/95e570cc-dbf0-4e45-b681-c54f9585dc5a/95e570cc-dbf0-4e45-b681-c54f9585dc5a.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TRIMEPRAZINE WITH PREDNISOLONE",
+    "brand": "Cortamine P",
+    "ndc": "86136-126-65",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/acb342e5-66b4-46f7-8ad5-277f3031ed3d/acb342e5-66b4-46f7-8ad5-277f3031ed3d.xml",
+    "category": "ANADA",
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "MICAONAZOLE",
+    "brand": "Conzol 1 %",
+    "ndc": "13985-596-12",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b24e3877-5454-4306-bcf8-1467d23e49a4/b24e3877-5454-4306-bcf8-1467d23e49a4.xml",
+    "category": "ANADA",
+    "route": "topical",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ROBENACOXIB",
+    "brand": "Onsior",
+    "ndc": "58198-4875-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b23712a5-31a7-4d99-bd3c-820a6d11e79d/b23712a5-31a7-4d99-bd3c-820a6d11e79d.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "VERDINEXOR",
+    "brand": "Laverdia-CA1",
+    "ndc": "17033-073-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ceca311d-7f2e-4573-af8b-0e373d99fca5/ceca311d-7f2e-4573-af8b-0e373d99fca5.xml",
+    "category": "Conditional NADA",
+    "dose_mg_kg": 1.25,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PROTAMINE ZINC RECOMBINANT HUMAN INSULIN",
+    "brand": "ProZinc",
+    "ndc": "0010-4499-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/67503555-28cd-488d-a5bc-2b0cc2c4bc80/67503555-28cd-488d-a5bc-2b0cc2c4bc80.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "сахарный диабет"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 0.5,
+    "frequency_h": 12,
+    "notes": "Ед/кг, не мг/кг"
+  },
+  {
+    "name": "TRILOSTANE",
+    "brand": "Vetoryl",
+    "ndc": "17033-160-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d34b2325-34e6-4eac-b4ad-d652315c6291/d34b2325-34e6-4eac-b4ad-d652315c6291.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "гиперадренокортицизм (Кушинга)"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "DEXAMETHASONE",
+    "brand": "DEXAMETHASONE",
+    "ndc": "13985-533-25",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/69e03622-9742-418e-869d-11a399651eac/69e03622-9742-418e-869d-11a399651eac.xml",
+    "category": "ANADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "сердечная недостаточность",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "METRONIDAZOLE",
+    "brand": "AYRADIA",
+    "ndc": "51311-034-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/20bc9eaf-eaa1-4ab0-8e91-377a0dc7847e/20bc9eaf-eaa1-4ab0-8e91-377a0dc7847e.xml",
+    "category": "NADA",
+    "dose_mg_kg": 15,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "диарея",
+      "лямблиоз",
+      "анаэробные инфекции"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "SULFADIMETHOXINE",
+    "brand": "SulfaMed",
+    "ndc": "61133-6016-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/f36f3725-2b19-4077-826b-79093fa285c2/f36f3725-2b19-4077-826b-79093fa285c2.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 160.0,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DORAMECTIN AND LEVAMISOLE",
+    "brand": "Valcor",
+    "ndc": "54771-1685-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/34bad85a-2ee1-4e68-978f-93279d652e41/34bad85a-2ee1-4e68-978f-93279d652e41.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.2,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "боль",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MICONAZOLE NITRATE, POLYMYXIN B SULFATE, PREDNISOLONE ACETATE",
+    "brand": "Surolan",
+    "ndc": "58198-0813-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3f92451f-3206-44f1-8ec1-1c6f440b08db/3f92451f-3206-44f1-8ec1-1c6f440b08db.xml",
+    "category": "NADA",
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "DANOFLOXACIN MESYLATE",
+    "brand": "Advocin",
+    "ndc": "54771-9847-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/275d481d-3fd9-46b6-9d45-5b1148cdc3a9/275d481d-3fd9-46b6-9d45-5b1148cdc3a9.xml",
+    "category": "NADA",
+    "dose_mg_kg": 8.0,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MOXIDECTIN",
+    "brand": "ProHeart 12",
+    "ndc": "54771-0254-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e7533db0-7310-442d-8c47-364207d70005/e7533db0-7310-442d-8c47-364207d70005.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.003,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "блохи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "NEOMYCIN SULFATE, ISOFLUPREDONE ACETATE, AND TETRACAINE HYDROCHLORIDE",
+    "brand": "Neo-Predef with Tetracaine",
+    "ndc": "54771-1584-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b8c6deb6-7c7d-485a-bd59-466359cec7d8/b8c6deb6-7c7d-485a-bd59-466359cec7d8.xml",
+    "category": "NADA",
+    "species": [
+      "dog",
+      "cat",
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN SULFATE, MOMETASONE FUROATE ANHYDROUS, AND CLOTRIMAZOLE",
+    "brand": "Mometavet",
+    "ndc": "17033-273-21",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c9f728a6-d946-45ce-9711-d907cd66392a/c9f728a6-d946-45ce-9711-d907cd66392a.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BUTORPHANOL TARTRATE",
+    "brand": "Dolorex",
+    "ndc": "57926-722-66",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6ca0c84e-df08-49f9-946b-fa4043346358/6ca0c84e-df08-49f9-946b-fa4043346358.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.22,
+    "species": [
+      "dog",
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OMEPRAZOLE",
+    "brand": "GASTROGARD",
+    "ndc": "0010-3704-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2d9a5b98-f039-4b45-8824-afd881c68998/2d9a5b98-f039-4b45-8824-afd881c68998.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "гастрит",
+      "рефлюкс",
+      "язва"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "CLINDAMYCIN",
+    "brand": "Clindamycin",
+    "ndc": "69043-016-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/00e95566-689e-4148-85e4-b7744abfca28/00e95566-689e-4148-85e4-b7744abfca28.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 11,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "стоматит",
+      "инфекции",
+      "остеомиелит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "GENTAMICIN INTRA-UTERINE",
+    "brand": "GENTAMICIN SULFATE",
+    "ndc": "13985-633-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7c74fbe6-13b4-41b4-a0e1-f70dde4276fa/7c74fbe6-13b4-41b4-a0e1-f70dde4276fa.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 20.0,
+    "route": "injection",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "METHYLPREDNISOLONE ACETATE",
+    "brand": "Depo-Medrol",
+    "ndc": "54771-1614-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e0f47704-8d7a-4a66-b1cc-7e5b25615852/e0f47704-8d7a-4a66-b1cc-7e5b25615852.xml",
+    "category": "NADA",
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "MILBEMYCIN OXIME AND PRAZIQUANTEL",
+    "brand": "Interceptor Plus",
+    "ndc": "58198-5444-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9e047009-2006-460e-8877-3aa418e6d232/9e047009-2006-460e-8877-3aa418e6d232.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "PHENYLBUTAZONE",
+    "brand": "PRIBUTAZONE",
+    "ndc": "58829-334-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/23e15441-ae0a-498c-8d42-e4a05bde210a/23e15441-ae0a-498c-8d42-e4a05bde210a.xml",
+    "category": "ANADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "артрит",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ENROFLOXACIN/SILVER SULFADIAZINE",
+    "brand": "EnroPro Silver Otic",
+    "ndc": "69043-056-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7a4f7ccd-aaeb-49ac-8a95-a29b3dc91e92/7a4f7ccd-aaeb-49ac-8a95-a29b3dc91e92.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "DICLOFENAC SODIUM",
+    "brand": "Surpass",
+    "ndc": "0010-4498-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e0fd246b-0ed0-49b6-9aac-291a1d9ef818/e0fd246b-0ed0-49b6-9aac-291a1d9ef818.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "topical",
+    "indications": [
+      "боль",
+      "артрит",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "KETAMINE HYDROCHLORIDE INJECTION",
+    "brand": "Ketamine Hydrochloride",
+    "ndc": "11695-7039-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ddaa5668-cae7-4ec0-8eff-505d9d67a5c0/ddaa5668-cae7-4ec0-8eff-505d9d67a5c0.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 11.0,
+    "species": [
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IMIDOCARB DIPROPIONATE",
+    "brand": "Imizol",
+    "ndc": "0061-5158-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4d829e68-2b11-408d-a9a4-987df420e2dd/4d829e68-2b11-408d-a9a4-987df420e2dd.xml",
+    "category": "NADA",
+    "dose_mg_kg": 6.6,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFADIMETHOXINE CONCENTRATED SOLUTION 12.5%",
+    "brand": "Sulfadimethoxine Concentrated Solution 12.5%",
+    "ndc": "69043-025-89",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/bf1c1c8c-7bf0-4d59-9eda-8e3b11933332/bf1c1c8c-7bf0-4d59-9eda-8e3b11933332.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TORSEMIDE",
+    "brand": "UpCArd-CA1 TORSEMIDE",
+    "ndc": "17030-020-32",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9acd9aed-eb36-468a-8a65-1ddb4d99aad5/9acd9aed-eb36-468a-8a65-1ddb4d99aad5.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.44,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "сердечная недостаточность",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MARBOFLOXACIN CHEWABLE TABLETS",
+    "brand": "Marbofloxacin",
+    "ndc": "11695-7011-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/533a1adb-d4e5-466d-bf80-df1723b8fb78/533a1adb-d4e5-466d-bf80-df1723b8fb78.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 2.75,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "инфекции мягких тканей"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "SPINOSAD AND MILBEMYCIN OXIME",
+    "brand": "Trifexis",
+    "ndc": "58198-0045-6",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3580b755-8344-499b-a56f-ca98a5300eef/3580b755-8344-499b-a56f-ca98a5300eef.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "TETRACYCLINE HYDROCHLORIDE",
+    "brand": "Tetracycline SP 324 Powder",
+    "ndc": "46066-224-21",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5b680193-74ef-4860-bce1-7fb82f15bdd8/5b680193-74ef-4860-bce1-7fb82f15bdd8.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFAMETHAZINE SODIUM",
+    "brand": "Sulmet",
+    "ndc": "23243-6500-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/002056c9-9f4f-435c-a17e-8e21086c708f/002056c9-9f4f-435c-a17e-8e21086c708f.xml",
+    "category": "NADA",
+    "dose_mg_kg": 237.6,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CEFTIOFUR SODIUM",
+    "brand": "Naxcel",
+    "ndc": "54771-3362-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e9ca767e-7486-41c7-955c-e09ff45a2f6c/e9ca767e-7486-41c7-955c-e09ff45a2f6c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.2,
+    "species": [
+      "dog",
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMOXICILLIN",
+    "brand": "Biomox",
+    "ndc": "51311-203-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/33d46b2f-5058-4a74-87f6-5fb785bb8875/33d46b2f-5058-4a74-87f6-5fb785bb8875.xml",
+    "category": "NADA",
+    "dose_mg_kg": 15,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции дыхательных путей",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "CEFTIOFUR HYDROCHLORIDE",
+    "brand": "Spectramast DC",
+    "ndc": "54771-5278-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/05ffa275-78c7-4b9e-978e-1990c80fc510/05ffa275-78c7-4b9e-978e-1990c80fc510.xml",
+    "category": "NADA",
+    "route": "topical",
+    "indications": [
+      "инфекции",
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "EUTHANASIA",
+    "brand": "Euthaphen",
+    "ndc": "17033-088-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c67bd6e5-5a8b-44a5-b8ea-90757d84fa38/c67bd6e5-5a8b-44a5-b8ea-90757d84fa38.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "brand": "Dexamethasone SP",
+    "ndc": "13985-043-29",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6622a71c-0547-4943-b720-b7afe17a894e/6622a71c-0547-4943-b720-b7afe17a894e.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "сердечная недостаточность"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CHLORAMPHENICOL",
+    "brand": "Viceton",
+    "ndc": "61133-2213-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ace05668-ae3c-46c5-b210-0e79a816f4fb/ace05668-ae3c-46c5-b210-0e79a816f4fb.xml",
+    "category": "NADA",
+    "dose_mg_kg": 150.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PHENOBARBITAL",
+    "brand": "FIDOQUEL-CA1",
+    "ndc": "64950-562-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/be8b0493-987c-4d6d-abc6-3337e63973b4/be8b0493-987c-4d6d-abc6-3337e63973b4.xml",
+    "category": "Conditional NADA",
+    "dose_mg_kg": 2.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "эпилепсия",
+      "судороги"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "ATINVICITINIB",
+    "brand": "Numelvi",
+    "ndc": "0061-1434-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2bed934f-41e1-4540-ab08-80cc49e83ec9/2bed934f-41e1-4540-ab08-80cc49e83ec9.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "паразиты",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SELEGILINE HYDROCHLORIDE",
+    "brand": "ANIPRYL",
+    "ndc": "54771-8193-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a4b37708-9f47-4428-af22-1f268d1331a5/a4b37708-9f47-4428-af22-1f268d1331a5.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLORFENICOL, TERBINAFINE, MOMETASONE FUROATE",
+    "brand": "Claro",
+    "ndc": "58198-0027-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/70e46314-31b1-4bf8-a5cb-a9bf68330df1/70e46314-31b1-4bf8-a5cb-a9bf68330df1.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SPECTINOMYCIN",
+    "brand": "SpectoGard Scour-Chek",
+    "ndc": "61133-6002-7",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/534f1428-ec26-4da4-a35d-d3eac93949df/534f1428-ec26-4da4-a35d-d3eac93949df.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SODIUM SULFAMETHAZINE SODIUM SULFAMERAZINE SODIUM SULFAQUINOXALINE",
+    "brand": "PoultrySulfa",
+    "ndc": "23243-6764-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6fb9deb9-35a9-45ad-ba2d-db42f84452c9/6fb9deb9-35a9-45ad-ba2d-db42f84452c9.xml",
+    "category": "NADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SPINOSAD",
+    "brand": "Comfortis",
+    "ndc": "58198-0071-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/80395f85-144e-4b5d-95f0-28958d983bc0/80395f85-144e-4b5d-95f0-28958d983bc0.xml",
+    "category": "NADA",
+    "dose_mg_kg": 50.0,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты",
+      "аллергия",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MILBEMYCIN OXIME AND LUFENURON",
+    "brand": "Sentinel Flavor Tabs",
+    "ndc": "0061-5351-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/17fc7e3e-0119-423e-a218-0094fc89dc8c/17fc7e3e-0119-423e-a218-0094fc89dc8c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "CLOXACILLIN BENZATHINE",
+    "brand": "Orbenin-DC",
+    "ndc": "0061-8134-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2173ff35-a29b-40f3-9617-5555b4e306c3/2173ff35-a29b-40f3-9617-5555b4e306c3.xml",
+    "category": "NADA",
+    "indications": [
+      "инфекции",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FIROCOXIB TABLETS FOR HORSES",
+    "brand": "OstiCoxib EQ",
+    "ndc": "86136-165-36",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e5516161-2fbc-4cec-a780-77a471fa73d4/e5516161-2fbc-4cec-a780-77a471fa73d4.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "остеоартрит",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "DOXYCYCLINE HYCLATE",
+    "brand": "Doxirobe Gel",
+    "ndc": "54771-5193-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6d342204-3b57-4aa6-892f-253b4d5d2f24/6d342204-3b57-4aa6-892f-253b4d5d2f24.xml",
+    "category": "NADA",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "боррелиоз",
+      "анаплазмоз",
+      "питомниковый кашель"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "CEPHAPIRIN BENZATHINE",
+    "brand": "ToMORROW",
+    "ndc": "0010-4755-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7fa0c0c8-eb8a-4374-b9e0-05870e932de7/7fa0c0c8-eb8a-4374-b9e0-05870e932de7.xml",
+    "category": "NADA",
+    "indications": [
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CHLORTETRACYCLINE HYDROCHLORIDE",
+    "brand": "CHLORTETRACYCLINE HYDROCHLORIDE",
+    "ndc": "76475-236-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3b93f6ad-944a-4352-95b0-400cd7394763/3b93f6ad-944a-4352-95b0-400cd7394763.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BUPIVACAINE",
+    "brand": "NOCITA",
+    "ndc": "58198-5531-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e725ce58-c2cb-43f1-aaf3-96112f2de84a/e725ce58-c2cb-43f1-aaf3-96112f2de84a.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.3,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BEDINVETMAB INJECTION",
+    "brand": "Librela",
+    "ndc": "54771-2781-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ae6206d8-7e9c-49f7-8b0c-da7dd5f34500/ae6206d8-7e9c-49f7-8b0c-da7dd5f34500.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "артрит",
+      "сердечная недостаточность",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYGEN HELIUM MIXTURE 30/70",
+    "brand": "Oxygen Helium Mixture 30/70",
+    "ndc": "17575-028-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e4799ce1-e730-497d-97c0-145d8edc5402/e4799ce1-e730-497d-97c0-145d8edc5402.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "INSULIN PORK",
+    "brand": "Vetsulin",
+    "ndc": "57926-490-62",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/842c20c5-c249-4fba-87dd-0383c497bf63/842c20c5-c249-4fba-87dd-0383c497bf63.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "сахарный диабет"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 0.5,
+    "frequency_h": 12,
+    "notes": "Ед/кг, не мг/кг"
+  },
+  {
+    "name": "NYSTATIN-NEOMYCIN SULFATE-THIOSTREPTON-TRIAMCINOLONE ACETONIDE",
+    "brand": "Animax",
+    "ndc": "17033-122-15",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c3c66d5c-7f91-4332-aeb2-470b91b92618/c3c66d5c-7f91-4332-aeb2-470b91b92618.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FOLLICLE STIMULATING HORMONE (PORCINE)",
+    "brand": "Folltropin",
+    "ndc": "17030-101-70",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/24a8980b-954d-488e-921b-072200ea00e6/24a8980b-954d-488e-921b-072200ea00e6.xml",
+    "category": "NADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PRAZIQUANTEL, PYRANTEL PAMOATE, FEBANTEL",
+    "brand": "Drontal Plus",
+    "ndc": "58198-0065-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a018768a-e7f1-4a97-a0e3-54948c1d0deb/a018768a-e7f1-4a97-a0e3-54948c1d0deb.xml",
+    "category": "NADA",
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "цестоды (ленточные глисты)"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 5,
+    "frequency_h": "single"
+  },
+  {
+    "name": "CARPROFEN FLAVORED",
+    "brand": "Novox",
+    "ndc": "50989-745-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ebab9af6-806d-4914-9c10-154ea16610f6/ebab9af6-806d-4914-9c10-154ea16610f6.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.4,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "HELIUM/OXYGEN MIX",
+    "brand": "Helium/Oxygen Mix",
+    "ndc": "12213-832-12",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7f84c1ab-09ed-411f-b61a-11c8656d5648/7f84c1ab-09ed-411f-b61a-11c8656d5648.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "METHYLPREDNISOLONE",
+    "brand": "methylprednisolone",
+    "ndc": "69043-042-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/49596195-c0f0-413f-b49e-a488172cd04b/49596195-c0f0-413f-b49e-a488172cd04b.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "dose_mg_kg": 2,
+    "species": [
+      "cat"
+    ],
+    "frequency_h": 12,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "NOVOBIOCIN SODIUM AND PENICILLIN G PROCAINE",
+    "brand": "Albadry Plus",
+    "ndc": "54771-3139-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fdf35f2e-3f20-467c-a411-d2b8e98cae92/fdf35f2e-3f20-467c-a411-d2b8e98cae92.xml",
+    "category": "NADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN SULFATE AND BETAMETHASONE ACETATE",
+    "brand": "Gentocin Durafilm",
+    "ndc": "0061-0100-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/277587d9-57ed-41a6-a286-d3cca9041447/277587d9-57ed-41a6-a286-d3cca9041447.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TIGILANOL TIGLATE INJECTION",
+    "brand": "STELFONTA 1 mg/mL",
+    "ndc": "51311-993-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/88127096-8221-47ac-b3a7-ce16a996d7bc/88127096-8221-47ac-b3a7-ce16a996d7bc.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MILBEMYCIN OXIME, LUFENURON AND PRAZIQUANTEL",
+    "brand": "Sentinel Spectrum",
+    "ndc": "0061-5355-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/226ec01a-218d-4bae-b898-b034c9749657/226ec01a-218d-4bae-b898-b034c9749657.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "PROPOFOL INJECTABLE EMULSION",
+    "brand": "Propofol Multidose",
+    "ndc": "11695-7036-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/dd8330bc-f26f-4e9e-b14e-e6f9dcf6ddac/dd8330bc-f26f-4e9e-b14e-e6f9dcf6ddac.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 29.7,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "паразиты",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLUNIXIN",
+    "brand": "Banamine-S",
+    "ndc": "0061-1838-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6a509909-8118-41ac-addc-eb0fb2ed86a0/6a509909-8118-41ac-addc-eb0fb2ed86a0.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.2,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "EPRINOMECTIN",
+    "brand": "LongRange",
+    "ndc": "0010-7216-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c35cb99a-13d1-4b70-a8be-cccc0015a6ce/c35cb99a-13d1-4b70-a8be-cccc0015a6ce.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "POLYSULFATED GLYCOSAMINOGLYCAN",
+    "brand": "adequan i.m.",
+    "ndc": "10797-995-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/02fef3ef-1fda-4ef4-aab4-a61d5c832af2/02fef3ef-1fda-4ef4-aab4-a61d5c832af2.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BEXAGLIFLOZIN TABLETS",
+    "brand": "Bexacat",
+    "ndc": "58198-5315-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e60e020f-2f28-405c-94f3-d9e44dd68a71/e60e020f-2f28-405c-94f3-d9e44dd68a71.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FENBENDAZOLE",
+    "brand": "Panacur",
+    "ndc": "57926-474-20",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9fad1b30-ea17-4594-ad05-2719d76311eb/9fad1b30-ea17-4594-ad05-2719d76311eb.xml",
+    "category": "NADA",
+    "dose_mg_kg": 50,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "глисты",
+      "лямблиоз"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "HYDROCORTISONE ACEPONATE, MICONAZOLE NITRATE, AND GENTAMICIN SULFATE",
+    "brand": "EASOTIC",
+    "ndc": "51311-360-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3c8ab6dc-334e-46de-9f0b-78021ee20cb7/3c8ab6dc-334e-46de-9f0b-78021ee20cb7.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMOXICILLIN ANHYDROUS AND CLAVULANATE POTASSIUM",
+    "brand": "Clavacillin",
+    "ndc": "17033-443-21",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/87dfc185-7ca3-4651-a9a4-caf589f5780c/87dfc185-7ca3-4651-a9a4-caf589f5780c.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 15,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции дыхательных путей",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "COSYNTROPIN",
+    "brand": "CosACTHen",
+    "ndc": "17033-390-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/c49c3d9b-d6df-4ff9-b58b-46e8b65f0e3c/c49c3d9b-d6df-4ff9-b58b-46e8b65f0e3c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.005,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PROGESTERONE, ESTRADIOL BENZOATE, TYLOSIN TARTRATE",
+    "brand": "Component E-C With Tylan",
+    "ndc": "58198-0507-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ab08a1d7-9773-4efc-b6a7-5a189d88849e/ab08a1d7-9773-4efc-b6a7-5a189d88849e.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLORFENICOL, TERBINAFINE, AND MOMETASONE FUROATE",
+    "brand": "SIMPLERA Otic Solution",
+    "ndc": "86136-125-67",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a61445d2-3032-4b50-8bd6-8d17c87aabcd/a61445d2-3032-4b50-8bd6-8d17c87aabcd.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TULATHROMYCIN AND KETOPROFEN INJECTION",
+    "brand": "Draxxin KP",
+    "ndc": "54771-2155-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7897f5c8-9304-40d3-9276-2dee4f752b66/7897f5c8-9304-40d3-9276-2dee4f752b66.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.5,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "EPSIPRANTEL",
+    "brand": "Cestex",
+    "ndc": "54771-8035-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/36fdacff-4451-42cf-a587-0118f0334bc5/36fdacff-4451-42cf-a587-0118f0334bc5.xml",
+    "category": "NADA",
+    "dose_mg_kg": 500.0,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CAPROMORELIN TARTRATE",
+    "brand": "Entyce",
+    "ndc": "58198-5535-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/21785788-3458-450a-84b5-baac45555c12/21785788-3458-450a-84b5-baac45555c12.xml",
+    "category": "NADA",
+    "dose_mg_kg": 3.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "артрит",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFADIMETHOXINE ORAL SOLUTION",
+    "brand": "Sulforal",
+    "ndc": "17033-415-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/772be955-bc31-4690-bf6e-c0ea441b5270/772be955-bc31-4690-bf6e-c0ea441b5270.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARBON DIOXIDE NITROGEN",
+    "brand": "Carbon Dioxide Nitrogen",
+    "ndc": "51887-300-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e88fda13-5015-40b0-8f51-4c76c04c30a9/e88fda13-5015-40b0-8f51-4c76c04c30a9.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARBON DIOXIDE OXYGEN MIXTURE 5/95",
+    "brand": "Carbon Dioxide Oxygen Mixture 5/95",
+    "ndc": "17575-022-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fd3a49e1-c991-4def-85ba-2456eca0bc95/fd3a49e1-c991-4def-85ba-2456eca0bc95.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ORBIFLOXACIN",
+    "brand": "Orbax",
+    "ndc": "0061-2321-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7fd7aec0-9496-4cb6-a9dc-b7a9e2f72df6/7fd7aec0-9496-4cb6-a9dc-b7a9e2f72df6.xml",
+    "category": "NADA",
+    "dose_mg_kg": 7.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IVERMECTIN/PYRANTEL",
+    "brand": "IVERHART PLUS",
+    "ndc": "51311-170-20",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ea8ae052-2f1d-4c8d-9f2d-f5a5016e0e8c/ea8ae052-2f1d-4c8d-9f2d-f5a5016e0e8c.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.006,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "ALFAXALONE",
+    "brand": "ALFAXAN MULTIDOSE",
+    "ndc": "54771-6696-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d7e8d3ce-5ff5-48f1-ba30-dcb3bd1ba0b9/d7e8d3ce-5ff5-48f1-ba30-dcb3bd1ba0b9.xml",
+    "category": "NADA",
+    "dose_mg_kg": 9.7,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CEPHAPIRIN SODIUM",
+    "brand": "ToDAY",
+    "ndc": "0010-4754-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d979f062-7a91-4da2-befa-7d4bbfc1f29e/d979f062-7a91-4da2-befa-7d4bbfc1f29e.xml",
+    "category": "NADA",
+    "indications": [
+      "боль",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ITRACONAZOLE",
+    "brand": "Itrafungol",
+    "ndc": "51311-148-52",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d37becda-4650-4a8e-9a8a-79735cfd8d0c/d37becda-4650-4a8e-9a8a-79735cfd8d0c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ENROFLOXACIN, SILVER SULFADIAZINE",
+    "brand": "BAYTRIL OTIC",
+    "ndc": "58198-0076-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e84833bd-f7bc-499a-8cb2-c57f1c8b9b65/e84833bd-f7bc-499a-8cb2-c57f1c8b9b65.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "PONAZURIL",
+    "brand": "Marquis",
+    "ndc": "0010-7314-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4a52568b-667f-4b9d-b8c5-cd1fa2ea0c7a/4a52568b-667f-4b9d-b8c5-cd1fa2ea0c7a.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "паразиты",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TELMISARTAN",
+    "brand": "Semintra",
+    "ndc": "0010-4492-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b3cf4990-4b4b-483a-8bf0-fc76e17720cc/b3cf4990-4b4b-483a-8bf0-fc76e17720cc.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GONADORELIN",
+    "brand": "Fertagyl",
+    "ndc": "57926-477-87",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ed062dd7-d8fd-4945-97ca-20eb651bf134/ed062dd7-d8fd-4945-97ca-20eb651bf134.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 60.0,
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "NITROGEN OXYGEN MIX",
+    "brand": "Nitrogen Oxygen Mix",
+    "ndc": "12213-736-12",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/04d57733-8fb8-453b-8caf-369bc3ed8362/04d57733-8fb8-453b-8caf-369bc3ed8362.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "NITROUX OXIDE",
+    "brand": "Nitrous Oxide",
+    "ndc": "17575-031-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/3654db12-4589-4e5f-9570-6d3311226223/3654db12-4589-4e5f-9570-6d3311226223.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "N-BUTYLSCOPOLAMMONIUM BROMIDE",
+    "brand": "Buscopan",
+    "ndc": "0010-3701-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/1cafb8ce-101f-447b-9450-9d578aa4cb9a/1cafb8ce-101f-447b-9450-9d578aa4cb9a.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.3,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AIR 90% CARBON DIOXIDE 10%",
+    "brand": "Air 90% Carbon Dioxide 10%",
+    "ndc": "10297-014-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d0237cf6-440e-4bae-91f4-cf67b073d451/d0237cf6-440e-4bae-91f4-cf67b073d451.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SPECTINOMYCIN SULFATE",
+    "brand": "SpectoGard",
+    "ndc": "61133-4014-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/147b890a-9df2-47f5-a4e0-55fc1e90ac07/147b890a-9df2-47f5-a4e0-55fc1e90ac07.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 15.0,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARBON DIOXIDE AIR",
+    "brand": "Carbon Dioxide Air",
+    "ndc": "51887-401-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4190f6a6-b1fd-496d-b506-9ee97a8a0e44/4190f6a6-b1fd-496d-b506-9ee97a8a0e44.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYTETRACYCLINE HYDROCHLORIDE AND POLYMYXIN B SULFATE",
+    "brand": "Terramycin",
+    "ndc": "54771-1096-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0a2bc2f5-5294-466e-869d-dc05566e3f96/0a2bc2f5-5294-466e-869d-dc05566e3f96.xml",
+    "category": "NADA",
+    "species": [
+      "cat"
+    ],
+    "route": "topical",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PROPOFOL",
+    "brand": "PropoFlo",
+    "ndc": "54771-5206-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/49b39f95-4eaa-45d6-b8ef-925d1d7bca43/49b39f95-4eaa-45d6-b8ef-925d1d7bca43.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "POTASSIUM BROMIDE",
+    "brand": "KBroVet 250",
+    "ndc": "49427-397-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5fb1e86b-2c6c-4daa-8503-f5a3faecf0d3/5fb1e86b-2c6c-4daa-8503-f5a3faecf0d3.xml",
+    "category": "NADA",
+    "dose_mg_kg": 68.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLENBUTEROL",
+    "brand": "Ventipulmin",
+    "ndc": "0010-3017-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/0ddf4a4c-f9f4-4edf-8cdf-05cf287b2d7e/0ddf4a4c-f9f4-4edf-8cdf-05cf287b2d7e.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MILBEMYCIN OXIME",
+    "brand": "MILBEGUARD FLAVORED",
+    "ndc": "13744-510-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/27772b36-7c96-465a-a476-3b5dc25349f2/27772b36-7c96-465a-a476-3b5dc25349f2.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "GONADOTROPHIN, CHORIONIC",
+    "brand": "CHORULON",
+    "ndc": "57926-475-62",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e1952dba-3eab-46d3-8805-3b08e620b6d2/e1952dba-3eab-46d3-8805-3b08e620b6d2.xml",
+    "category": "NADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BUTORPHANOL TARTRATE INJECTION",
+    "brand": "Butorphic",
+    "ndc": "69043-064-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b14fa16b-899b-4c2c-979a-b4e9eb926923/b14fa16b-899b-4c2c-979a-b4e9eb926923.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.22,
+    "species": [
+      "dog",
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFAQUINOXALINE",
+    "brand": "Sul-Q-Nox",
+    "ndc": "23243-6771-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/206fb9ad-3903-4213-82cd-ed364d47e724/206fb9ad-3903-4213-82cd-ed364d47e724.xml",
+    "category": "NADA",
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLINAMYCIN HYDROCHLORIDE",
+    "brand": "CLINDA-GUARD DROPS",
+    "ndc": "46066-310-20",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7431017a-57b9-4ebb-9337-2fd88c2e0c51/7431017a-57b9-4ebb-9337-2fd88c2e0c51.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 300.0,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ALTRENOGEST",
+    "brand": "Altren",
+    "ndc": "51072-085-00",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4a6d7999-f829-4fee-92ef-8d5b7464bc7d/4a6d7999-f829-4fee-92ef-8d5b7464bc7d.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.044,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CAPROMORELIN",
+    "brand": "Elura",
+    "ndc": "58198-5545-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/304d1886-fb0e-4de2-9864-2c7756afe6e9/304d1886-fb0e-4de2-9864-2c7756afe6e9.xml",
+    "category": "NADA",
+    "dose_mg_kg": 2.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "сердечная недостаточность"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMPICILLIN SODIUM",
+    "brand": "Ampicillin Sodium",
+    "ndc": "86108-335-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/06322a8e-b906-4506-bec8-efb7fbafb493/06322a8e-b906-4506-bec8-efb7fbafb493.xml",
+    "category": "ANADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FRUNEVETMAB",
+    "brand": "Solensia",
+    "ndc": "54771-3520-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/41f60cfa-2dbc-4a75-9dff-5c29f74435cd/41f60cfa-2dbc-4a75-9dff-5c29f74435cd.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.0,
+    "species": [
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "боль",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GONADORELIN HYDROCHLORIDE",
+    "brand": "Factrel",
+    "ndc": "54771-4311-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/39c5161b-bc0a-426f-9b6c-bde6a551fdfc/39c5161b-bc0a-426f-9b6c-bde6a551fdfc.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFADIMETHOXINE SOLUTION 12.5%",
+    "brand": "Sulfadimethoxine Concentrated Solution 12.5%",
+    "ndc": "46066-555-93",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5c16ee9f-51f1-4519-955c-2d136d92218d/5c16ee9f-51f1-4519-955c-2d136d92218d.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFAMETHAZINE SUSTAINED RELEASE CALF",
+    "brand": "Sustain III Calf",
+    "ndc": "61133-1333-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7fd23d0d-5728-42d5-b010-edd095bd68f7/7fd23d0d-5728-42d5-b010-edd095bd68f7.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLINDAMYCIN HYDROCHLORIDE",
+    "brand": "Clindamycin Hydrochloride",
+    "ndc": "86101-054-11",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4627f119-ddb2-4b39-b7b6-69a1f5545973/4627f119-ddb2-4b39-b7b6-69a1f5545973.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 11,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "стоматит",
+      "инфекции",
+      "остеомиелит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 12
+  },
+  {
+    "name": "RABACFOSADINE SUCCINATE",
+    "brand": "Tanovea",
+    "ndc": "58198-0077-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ea878fd8-3d3d-46c9-98a8-dd7531086752/ea878fd8-3d3d-46c9-98a8-dd7531086752.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.0,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "KETOPROFEN",
+    "brand": "KetoMed",
+    "ndc": "61133-4007-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/58793e47-d2eb-4ea6-b99b-f0877f769c0d/58793e47-d2eb-4ea6-b99b-f0877f769c0d.xml",
+    "category": "ANADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMIKACIN SULFATE",
+    "brand": "Amiglyde-V",
+    "ndc": "54771-2332-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/316561e3-d33c-4941-bbae-0a3319c0fd2a/316561e3-d33c-4941-bbae-0a3319c0fd2a.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "LINCOMYCIN",
+    "brand": "LINCOMYCIN",
+    "ndc": "58005-636-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a7259d9f-4419-42c2-bc4e-3b24cdb59463/a7259d9f-4419-42c2-bc4e-3b24cdb59463.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MEPIVACAINE HYDROCHLORIDE",
+    "brand": "Carbocaine V Sterile Aqueous",
+    "ndc": "54771-3560-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/cee5776f-912d-419c-a51c-1c824873c15c/cee5776f-912d-419c-a51c-1c824873c15c.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "injection",
+    "indications": [
+      "боль",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DESOXYCORTICOSTERONE PIVALATE",
+    "brand": "ZYCORTAL",
+    "ndc": "17033-382-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/cc46511a-3887-4329-afa9-9ec29a923543/cc46511a-3887-4329-afa9-9ec29a923543.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.4,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "боль",
+      "сердечная недостаточность"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SULFADIAZINE AND PYRIMETHAMINE",
+    "brand": "ReBalance Antiprotozoal",
+    "ndc": "49427-247-11",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2f0fe6fe-d800-42e0-95b6-22957e8868c1/2f0fe6fe-d800-42e0-95b6-22957e8868c1.xml",
+    "category": "NADA",
+    "dose_mg_kg": 20.0,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BUPRENORPHINE",
+    "brand": "Zorbium",
+    "ndc": "58198-0078-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/35f47717-eace-4c48-b3e0-a28eda98a9b8/35f47717-eace-4c48-b3e0-a28eda98a9b8.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.02,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 8,
+    "notes": "Трансмукозально (за щеку)"
+  },
+  {
+    "name": "TOCERANIB PHOSPHATE",
+    "brand": "Palladia",
+    "ndc": "54771-1692-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4393a520-7c7e-40fb-98b6-a4943dbe3edc/4393a520-7c7e-40fb-98b6-a4943dbe3edc.xml",
+    "category": "NADA",
+    "dose_mg_kg": 3.25,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "артрит",
+      "паразиты",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYTETRACYCLINE HYDROCHLORIDE",
+    "brand": "Oxytet Soluble",
+    "ndc": "23243-6759-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5d9449d8-b5b5-46c8-844a-319a8b99aa27/5d9449d8-b5b5-46c8-844a-319a8b99aa27.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "HELIUM/OXYGEN MIXTURE 80/20",
+    "brand": "Helium/Oxygen Mixture 80/20",
+    "ndc": "21220-027-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5291d706-1aeb-4c68-8642-86c89272d738/5291d706-1aeb-4c68-8642-86c89272d738.xml",
+    "category": "NADA",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN SULFATE, BETAMETHASONE VALERATE, AND CLOTRIMAZOLE",
+    "brand": "Otomax",
+    "ndc": "0061-0387-08",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7e8927ce-571f-4c4d-8dd4-7b08f1702bfd/7e8927ce-571f-4c4d-8dd4-7b08f1702bfd.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "0.015% TRIAMCINOLONE ACETONIDE",
+    "brand": "Genesis",
+    "ndc": "51311-105-08",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/96cb9b95-adbf-43b8-a788-da434ce6a09d/96cb9b95-adbf-43b8-a788-da434ce6a09d.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "паразиты",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ROPINIROLE HYDROCHLORIDE",
+    "brand": "CLEVOR",
+    "ndc": "17030-030-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/fd5996cd-88b2-4852-a997-33c4736425b1/fd5996cd-88b2-4852-a997-33c4736425b1.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARPROFEN SOFT CHEWABLE",
+    "brand": "Carprofen",
+    "ndc": "86101-043-30",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/a99ad203-abdb-418d-8d5b-d1db3f7c6863/a99ad203-abdb-418d-8d5b-d1db3f7c6863.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.4,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "SULFADIMETHOXINE SODIUM",
+    "brand": "SULFASOL",
+    "ndc": "17033-428-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/1c09cfad-a665-4083-9792-85cc8bcc06f3/1c09cfad-a665-4083-9792-85cc8bcc06f3.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "(ENROFLOXACIN/SILVER SULFADIAZINE)",
+    "brand": "Enrosite Silver Otic",
+    "ndc": "86136-123-66",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/022f41e1-5ef7-468d-8b63-0ab581ca563a/022f41e1-5ef7-468d-8b63-0ab581ca563a.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "пиодерма"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "DESOXYCORTICOSTERONE PIVALATAE",
+    "brand": "Percorten V",
+    "ndc": "58198-5667-0",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/df4cad7c-5fc9-439d-b83e-09d44037f45c/df4cad7c-5fc9-439d-b83e-09d44037f45c.xml",
+    "category": "NADA",
+    "dose_mg_kg": 11.0,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "сердечная недостаточность"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GONADOTROPIN RELEASING FACTOR ANALOG-DIPHTHERIA TOXOID CONJUGATE",
+    "brand": "Improvest",
+    "ndc": "54771-1534-3",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/96422b3d-88b8-4be7-a014-3a7c18da3d89/96422b3d-88b8-4be7-a014-3a7c18da3d89.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "OXYTOCIN",
+    "brand": "Oxytocin",
+    "ndc": "61133-6013-2",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/e9c06026-48bd-48b1-a544-969bc8652a3f/e9c06026-48bd-48b1-a544-969bc8652a3f.xml",
+    "category": "ANADA",
+    "route": "injection",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TERBINAFINE AND BETAMETHASONE ACETATE",
+    "brand": "DuOtic",
+    "ndc": "17033-277-20",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/4a5e39eb-34ef-47d6-9c1a-9da87a6b52bc/4a5e39eb-34ef-47d6-9c1a-9da87a6b52bc.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLURALANER AND MOXIDECTIN",
+    "brand": "Bravecto Plus",
+    "ndc": "0061-5996-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6d87d6c5-147f-49bc-86eb-bdf8adb571bd/6d87d6c5-147f-49bc-86eb-bdf8adb571bd.xml",
+    "category": "NADA",
+    "dose_mg_kg": 25,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "блохи",
+      "клещи"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "12 weeks"
+  },
+  {
+    "name": "DICLAZURIL",
+    "brand": "Protazil",
+    "ndc": "0061-4144-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/57888588-5331-47af-a3dd-f22ebc235a23/57888588-5331-47af-a3dd-f22ebc235a23.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "GENTAMICIN",
+    "brand": "GENTAMICIN SULFATE",
+    "ndc": "60270-338-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/049a5b62-34dc-4a3c-8e28-e7c2685f3c51/049a5b62-34dc-4a3c-8e28-e7c2685f3c51.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 20.0,
+    "route": "injection",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TYLVALOSIN TARTRATE",
+    "brand": "Aivlosin",
+    "ndc": "51429-625-40",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7cf258d7-ad0d-49a6-aaf4-1f4a3e90c32e/7cf258d7-ad0d-49a6-aaf4-1f4a3e90c32e.xml",
+    "category": "NADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "VATINOXAN HYDROCHLORIDE AND MEDETOMIDINE HYDROCHLORIDE",
+    "brand": "Zenalpha",
+    "ndc": "17033-090-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/5700e76f-c51b-4154-94b8-3dd65350a8a0/5700e76f-c51b-4154-94b8-3dd65350a8a0.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMPICILLIN",
+    "brand": "POLYFLEX",
+    "ndc": "0010-4712-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/47d52438-1cb4-4b84-a6b6-e55cefb0e9e9/47d52438-1cb4-4b84-a6b6-e55cefb0e9e9.xml",
+    "category": "NADA",
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PENICILLIN G PROCAINE AND DIHYDROSTREPTOMYCIN SULFATE INTRAMAMMARY INFUSION",
+    "brand": "Quartermaster",
+    "ndc": "86108-901-03",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/cfc29aee-8e48-4e96-b23b-c2b9b84fcb05/cfc29aee-8e48-4e96-b23b-c2b9b84fcb05.xml",
+    "category": "NADA",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MELARSOMINE DIHYDROCHLORIDE AND WATER",
+    "brand": "DIROBAN",
+    "ndc": "54771-1920-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/88e7ed2f-950f-49dd-8549-33537fcb0858/88e7ed2f-950f-49dd-8549-33537fcb0858.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 7.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "сердечная недостаточность",
+      "паразиты",
+      "судороги"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TILETAMINE AND ZOLAZEPAM FOR INJECTION",
+    "brand": "ZOLETIL",
+    "ndc": "51311-718-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/d9c7adb1-1608-4f7d-b29e-a5c17c6d4979/d9c7adb1-1608-4f7d-b29e-a5c17c6d4979.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 9.9,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "DOMPERIDONE",
+    "brand": "Equidone",
+    "ndc": "17033-326-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/49f968cc-5db3-48b8-8707-0b9f40fbe4e2/49f968cc-5db3-48b8-8707-0b9f40fbe4e2.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.1,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PENTOSAN POLYSULFATE SODIUM",
+    "brand": "Zycosan",
+    "ndc": "17033-461-75",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/07544981-ca9d-4c9d-a674-612be011a922/07544981-ca9d-4c9d-a674-612be011a922.xml",
+    "category": "NADA",
+    "dose_mg_kg": 3.0,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "PREGABALIN",
+    "brand": "BONQAT",
+    "ndc": "54771-1906-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/887a73d8-2c90-4c53-b935-a80a1ad31431/887a73d8-2c90-4c53-b935-a80a1ad31431.xml",
+    "category": "NADA",
+    "dose_mg_kg": 5.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CEFOVECIN SODIUM",
+    "brand": "Solovecin",
+    "ndc": "17033-002-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/ef0d5a82-681d-4495-9b6b-19f81f44ac24/ef0d5a82-681d-4495-9b6b-19f81f44ac24.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 8.0,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "паразиты",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TILDIPIROSIN",
+    "brand": "Zuprevo",
+    "ndc": "0061-4321-02",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2f2be4c4-3e11-4b70-ac3d-ee9574085140/2f2be4c4-3e11-4b70-ac3d-ee9574085140.xml",
+    "category": "NADA",
+    "dose_mg_kg": 4.0,
+    "route": "injection",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "VELAGLIFLOZIN",
+    "brand": "Senvelgo",
+    "ndc": "0010-4614-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/2ff66b67-9b85-4827-a5cb-0f7307c72b77/2ff66b67-9b85-4827-a5cb-0f7307c72b77.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CARPROFEN STERILE",
+    "brand": "OSTIFEN",
+    "ndc": "86136-140-31",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/25563847-e246-468c-a93e-0d85a9970683/25563847-e246-468c-a93e-0d85a9970683.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 4.4,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "воспаление",
+      "артрит"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": 24
+  },
+  {
+    "name": "CEPHALEXIN",
+    "brand": "RILEXINE",
+    "ndc": "51311-026-10",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/607fadeb-7ed7-475f-b698-9f33b5923507/607fadeb-7ed7-475f-b698-9f33b5923507.xml",
+    "category": "NADA",
+    "dose_mg_kg": 22.0,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MEDETOMIDINE HYDROCHLORIDE",
+    "brand": "Placadine",
+    "ndc": "15914-005-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9bc5e129-5ebc-41e7-8d91-cbb5c3c56edc/9bc5e129-5ebc-41e7-8d91-cbb5c3c56edc.xml",
+    "category": "ANADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "боль",
+      "паразиты"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TILETAMINE HYDROCHLORIDE AND ZOLAZEPAM HYDROCHLORIDE",
+    "brand": "Telazol",
+    "ndc": "54771-9050-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/f0d3feb2-fa62-4179-bdb0-6a5841bfc585/f0d3feb2-fa62-4179-bdb0-6a5841bfc585.xml",
+    "category": "NADA",
+    "dose_mg_kg": 9.9,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "injection",
+    "indications": [
+      "пневмония",
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "SODIUM SULFAMETHAZINE",
+    "brand": "SMZ-Med 454",
+    "ndc": "61133-8001-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/b870374f-cc41-4591-8517-23e661a66047/b870374f-cc41-4591-8517-23e661a66047.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 237.6,
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "FLUMETHASONE",
+    "brand": "Bimasone",
+    "ndc": "61133-4009-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/31942e4a-2ef7-4f9c-bb61-0dbb00138cb5/31942e4a-2ef7-4f9c-bb61-0dbb00138cb5.xml",
+    "category": "ANADA",
+    "species": [
+      "dog",
+      "cat",
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония",
+      "боль",
+      "артрит",
+      "сердечная недостаточность",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "BETAMETHASONE SODIUM PHOSPHATE AND BETAMETHASONE ACETATE",
+    "brand": "BetaVet",
+    "ndc": "10797-720-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/51eee06d-372e-4f9c-9426-b836f9dfe59d/51eee06d-372e-4f9c-9426-b836f9dfe59d.xml",
+    "category": "NADA",
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "боль",
+      "артрит",
+      "сердечная недостаточность"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "IVERMECTIN",
+    "brand": "SPARMECTIN E",
+    "ndc": "58005-725-04",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/57e348ce-062e-4b54-b5ff-a1d9f3a594f6/57e348ce-062e-4b54-b5ff-a1d9f3a594f6.xml",
+    "category": "ANADA",
+    "dose_mg_kg": 0.006,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "профилактика дирофиляриоза"
+    ],
+    "source": "vet_dosages",
+    "frequency_h": "monthly"
+  },
+  {
+    "name": "DEXMEDETOMIDINE",
+    "brand": "Sileo",
+    "ndc": "54771-1050-1",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/9cafe120-77e6-47f9-81a5-9f30256227f1/9cafe120-77e6-47f9-81a5-9f30256227f1.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "пневмония",
+      "аллергия"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "TC VET 324",
+    "brand": "tetracycline hydrochloride",
+    "ndc": "13985-521-50",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/630e73b1-ca19-49bd-bb5a-e092a0c313d5/630e73b1-ca19-49bd-bb5a-e092a0c313d5.xml",
+    "category": "ANADA",
+    "route": "oral",
+    "indications": [
+      "инфекции",
+      "пневмония"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "MIRTAZAPINE",
+    "brand": "Mirataz",
+    "ndc": "17033-060-05",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/6d65921e-0d65-48eb-8d28-3dd8f15080bf/6d65921e-0d65-48eb-8d28-3dd8f15080bf.xml",
+    "category": "NADA",
+    "dose_mg_kg": 0.0,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "indications": [
+      "инфекции"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "CLODRONATE DISODIUM",
+    "brand": "OSPHOS",
+    "ndc": "17033-460-15",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/df2c86f3-6437-42f6-9b5e-822b0aa1498a/df2c86f3-6437-42f6-9b5e-822b0aa1498a.xml",
+    "category": "NADA",
+    "dose_mg_kg": 1.8,
+    "species": [
+      "horse"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль",
+      "артрит"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "ESTRIOL",
+    "brand": "Incurin",
+    "ndc": "0061-4323-01",
+    "fda_link": "https://www.accessdata.fda.gov/spl/data/7c592306-e747-4dd0-afab-c58112baa8a2/7c592306-e747-4dd0-afab-c58112baa8a2.xml",
+    "category": "NADA",
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "indications": [
+      "боль"
+    ],
+    "source": "fda_xml_parsed"
+  },
+  {
+    "name": "AMOXICILLIN/CLAVULANATE",
+    "dose_mg_kg": 13.75,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "инфекции",
+      "пиодерма",
+      "пародонтит"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "DOXYCYCLINE",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "боррелиоз",
+      "анаплазмоз",
+      "питомниковый кашель"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "CEFALEXIN",
+    "dose_mg_kg": 22,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "пиодерма",
+      "инфекции кожи"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "AZITHROMYCIN",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "респираторные инфекции",
+      "бартонеллёз"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "BENAZEPRIL",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "сердечная недостаточность",
+      "гипертензия",
+      "ХБП"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "ENALAPRIL",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "сердечная недостаточность",
+      "гипертензия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "SPIRONOLACTONE",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "сердечная недостаточность",
+      "асцит"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "SOTALOL",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "аритмия",
+      "желудочковая тахикардия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "DILTIAZEM",
+    "dose_mg_kg": 1.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "аритмия",
+      "гипертензия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "ATENOLOL",
+    "dose_mg_kg": 1,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "аритмия",
+      "гипертензия",
+      "гипертиреоз"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "GABAPENTIN",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "нейропатическая боль",
+      "судороги",
+      "тревожность"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "TRAMADOL",
+    "dose_mg_kg": 4,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "боль",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "AMANTADINE",
+    "dose_mg_kg": 5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "хроническая боль",
+      "артрит"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "LEVOTHYROXINE",
+    "dose_mg_kg": 0.02,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "гипотиреоз"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "MITOTANE",
+    "dose_mg_kg": 50,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "гиперадренокортицизм"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "INSULIN (CANINE)",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "frequency_h": 12,
+    "indications": [
+      "сахарный диабет"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "MAROPITANT",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "рвота",
+      "укачивание"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "FAMOTIDINE",
+    "dose_mg_kg": 1,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "гастрит",
+      "рефлюкс"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "METOCLOPRAMIDE",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "рвота",
+      "гастропарез"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "SUCRALFATE",
+    "dose_mg_kg": 500,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "язва",
+      "эзофагит"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "LEVETIRACETAM",
+    "dose_mg_kg": 20,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "эпилепсия",
+      "судороги"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "ZONISAMIDE",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "эпилепсия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "PREDNISONE",
+    "dose_mg_kg": 1,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "аллергия",
+      "воспаление",
+      "иммуносупрессия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "OCLACITINIB",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "атопия",
+      "аллергический дерматит"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "DIPHENHYDRAMINE",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "аллергия",
+      "анафилаксия"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "MILBEMYCIN",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": "monthly",
+    "indications": [
+      "профилактика дирофиляриоза",
+      "глисты"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "THEOPHYLLINE",
+    "dose_mg_kg": 10,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "бронхит",
+      "коллапс трахеи",
+      "астма"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "TERBUTALINE",
+    "dose_mg_kg": 0.01,
+    "species": [
+      "dog",
+      "cat"
+    ],
+    "route": "injection",
+    "frequency_h": 4,
+    "indications": [
+      "бронхоспазм",
+      "астма"
+    ],
+    "source": "vet_dosages"
+  },
+  {
+    "name": "DOXYCYCLINE_CAT",
+    "dose_mg_kg": 5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "инфекции",
+      "боррелиоз",
+      "микоплазмоз"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "ENROFLOXACIN_CAT",
+    "dose_mg_kg": 2.5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "инфекции"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Риск острой слепоты у кошек при высоких дозах!"
+  },
+  {
+    "name": "MARBOFLOXACIN_CAT",
+    "dose_mg_kg": 2,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "инфекции кожи",
+      "инфекции дыхательных путей"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "CEFALEXIN_CAT",
+    "dose_mg_kg": 22,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "инфекции кожи",
+      "инфекции мочевыводящих путей"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "METRONIDAZOLE_CAT",
+    "dose_mg_kg": 10,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "диарея",
+      "лямблиоз"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "AZITHROMYCIN_CAT",
+    "dose_mg_kg": 5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "респираторные инфекции"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "PIMOBENDAN_CAT",
+    "dose_mg_kg": 0.3,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "сердечная недостаточность",
+      "HCM с обструкцией"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "CLOPIDOGREL",
+    "dose_mg_kg": 2,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "тромбоэмболия",
+      "профилактика тромбозов"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "CLOPIDOGREL_CAT",
+    "dose_mg_kg": 18.75,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "профилактика тромбоэмболии при HCM"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "1/4 таблетки 75 мг на кота"
+  },
+  {
+    "name": "DILTIAZEM_CAT",
+    "dose_mg_kg": 7.5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "HCM",
+      "гипертензия"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "ATENOLOL_CAT",
+    "dose_mg_kg": 6.25,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "HCM",
+      "гипертиреоз",
+      "гипертензия"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "AMLODIPINE",
+    "dose_mg_kg": 0.1,
+    "species": [
+      "dog"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "гипертензия"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "AMLODIPINE_CAT",
+    "dose_mg_kg": 0.625,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "гипертензия",
+      "ХБП"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "1/4 таблетки 2.5 мг"
+  },
+  {
+    "name": "MELOXICAM_CAT",
+    "dose_mg_kg": 0.05,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "боль",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Только кратковременно! Риск ОПП у кошек."
+  },
+  {
+    "name": "ROBENACOXIB_CAT",
+    "dose_mg_kg": 1,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "боль",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "TRAMADOL_CAT",
+    "dose_mg_kg": 2,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "боль"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "BUPRENORPHINE_CAT",
+    "dose_mg_kg": 0.02,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "боль",
+      "послеоперационная боль"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Трансмукозально (за щеку)"
+  },
+  {
+    "name": "LEVOTHYROXINE_CAT",
+    "dose_mg_kg": 0.05,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "гипотиреоз (редко)"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "TRILOSTANE_CAT",
+    "dose_mg_kg": 1,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "гиперадренокортицизм"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "CARBIMAZOLE_CAT",
+    "dose_mg_kg": 5,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "гипертиреоз"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "INSULIN_CANINE",
+    "dose_mg_kg": 0.5,
+    "species": [
+      "dog"
+    ],
+    "route": "injection",
+    "frequency_h": 12,
+    "indications": [
+      "сахарный диабет"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Ед/кг, не мг/кг"
+  },
+  {
+    "name": "INSULIN_FELINE",
+    "dose_mg_kg": 1,
+    "species": [
+      "cat"
+    ],
+    "route": "injection",
+    "frequency_h": 12,
+    "indications": [
+      "сахарный диабет"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Ед/кг, не мг/кг. Гларгин или детемир"
+  },
+  {
+    "name": "MAROPITANT_CAT",
+    "dose_mg_kg": 1,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "рвота",
+      "укачивание"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": ""
+  },
+  {
+    "name": "SUCRALFATE_CAT",
+    "dose_mg_kg": 250,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 8,
+    "indications": [
+      "язва",
+      "эзофагит"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "1/4 таблетки 1 г"
+  },
+  {
+    "name": "PREDNISOLONE_CAT",
+    "dose_mg_kg": 2,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 12,
+    "indications": [
+      "астма",
+      "аллергия",
+      "воспаление"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Кошки не конвертируют преднизон в преднизолон!"
+  },
+  {
+    "name": "THEOPHYLLINE_CAT",
+    "dose_mg_kg": 20,
+    "species": [
+      "cat"
+    ],
+    "route": "oral",
+    "frequency_h": 24,
+    "indications": [
+      "астма",
+      "бронхит"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Пролонгированная форма"
+  },
+  {
+    "name": "SALBUTAMOL_CAT",
+    "dose_mg_kg": 0.1,
+    "species": [
+      "cat"
+    ],
+    "route": "inhalation",
+    "frequency_h": 6,
+    "indications": [
+      "астма"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": false,
+    "notes": "Ингаляционно через спейсер"
+  },
+  {
+    "name": "ACETAMINOPHEN",
+    "dose_mg_kg": 0,
+    "species": [],
+    "route": "TOXIC",
+    "frequency_h": 0,
+    "indications": [
+      "☠️ СМЕРТЕЛЬНО ТОКСИЧЕН ДЛЯ КОШЕК! НЕ ПРИМЕНЯТЬ!"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": true,
+    "notes": ""
+  },
+  {
+    "name": "IBUPROFEN",
+    "dose_mg_kg": 0,
+    "species": [],
+    "route": "TOXIC",
+    "frequency_h": 0,
+    "indications": [
+      "☠️ ТОКСИЧЕН ДЛЯ КОШЕК! ВЫЗЫВАЕТ ОПП!"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": true,
+    "notes": ""
+  },
+  {
+    "name": "PERMETHRIN",
+    "dose_mg_kg": 0,
+    "species": [],
+    "route": "TOXIC",
+    "frequency_h": 0,
+    "indications": [
+      "☠️ СМЕРТЕЛЬНО ТОКСИЧЕН ДЛЯ КОШЕК! НЕ ДОПУСКАТЬ КОНТАКТА!"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": true,
+    "notes": ""
+  },
+  {
+    "name": "ESSENTIAL_OILS",
+    "dose_mg_kg": 0,
+    "species": [],
+    "route": "TOXIC",
+    "frequency_h": 0,
+    "indications": [
+      "☠️ Эфирные масла (чайное дерево, цитрус) ТОКСИЧНЫ ДЛЯ КОШЕК!"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": true,
+    "notes": ""
+  },
+  {
+    "name": "LILY",
+    "dose_mg_kg": 0,
+    "species": [],
+    "route": "TOXIC",
+    "frequency_h": 0,
+    "indications": [
+      "☠️ ЛИЛИИ СМЕРТЕЛЬНО ТОКСИЧНЫ ДЛЯ КОШЕК! Острая почечная недостаточность!"
+    ],
+    "source": "vet_dosages",
+    "toxic_cat": true,
+    "notes": ""
+  }
+]
