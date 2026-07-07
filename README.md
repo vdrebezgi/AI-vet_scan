@@ -27,6 +27,7 @@ cd AI-vet_scan
 pip install tensorflow scipy scikit-learn matplotlib joblib
 python vet_station.py
 Выбрать [4] для тестового анализа или [6] для своего WAV-файла.
+```
 
 Структура проекта
 pilot-pulmoscan/
