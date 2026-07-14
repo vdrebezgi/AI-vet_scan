@@ -1,7 +1,7 @@
 
 ---
 
-# 🇬🇧 English version
+# English version
 
 # AI VetScan — Veterinary AI Diagnostic System
 
@@ -91,6 +91,14 @@ Audio data preparation:
 | PulmoNet v2 | ICBHI 2017 (920 recordings) | 80.6% |
 | CardioNet Vet | PhysioNet + PASCAL + Kaggle Heartbeat (4000+ recordings) | 85.8% |
 | CHF Risk Scorer | Heart Failure Clinical Records (299 patients) | 83.3% |
+
+---
+
+# Analysis showcase
+
+![Analysis showcase](demo.png)
+
+---
 
 ---
 
