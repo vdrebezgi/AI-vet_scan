@@ -33,6 +33,14 @@ Responsibilities included:
 - organizing project structure and documentation.
 
 ---
+## System Architecture
+
+The system is designed as a modular pipeline:
+1. **Data Ingestion**: Using `data_hunter.py` to collect and clean veterinary datasets.
+2. **Preprocessing**: `data_mole.py` handles audio filtering and feature extraction for machine learning.
+3. **Core Analysis**: ML models (`PulmoNet`, `CardioNet`) process inputs to classify health conditions.
+4. **Decision Support**: `PharmaDSS` and `VetKnowledge` layers provide reference context based on the animal's breed and physiological metrics.
+---
 
 # Features
 
@@ -113,3 +121,11 @@ Python • TensorFlow/Keras • Scikit-learn • SciPy • Matplotlib • Kaggle
 The project is actively under development.
 
 Future plans include preparing an autonomous device version based on ESP32.
+
+---
+
+## Future Improvements (Roadmap)
+- [ ] **Hardware Integration**: Transition from prototype to embedded solution using ESP32.
+- [ ] **Model Optimization**: Quantization of models for better performance on edge devices.
+- [ ] **UI/UX**: Development of a web-based dashboard for veterinary professionals.
+- [ ] **Evaluation**: Further clinical validation of the `CardioNet Vet` model.
