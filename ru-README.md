@@ -107,7 +107,7 @@ python vet_station.py
 ```
 
 # Структура проекта
-
+```text
 pilot-pulmoscan/
 
 ├── vet_station.py              # Главный файл запуска системы
@@ -120,6 +120,7 @@ pilot-pulmoscan/
 ├── vet_knowledge_base.json     # База знаний
 ├── pharma_base_enriched.json   # База препаратов
 └── case_3d.step                # 3D-модель корпуса
+```
 
 # Технологический стек 
 ```text
