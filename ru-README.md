@@ -137,3 +137,6 @@ Python • TensorFlow/Keras • Scikit-learn • SciPy • Matplotlib • Kaggle
 * [ ] **Оценка**: Дальнейшая клиническая валидация модели `CardioNet Vet`.
 
 ---
+
+## Лицензия
+Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
