@@ -121,6 +121,7 @@ pilot-pulmoscan/
 ├── pharma_base_enriched.json   # База препаратов
 └── case_3d.step                # 3D-модель корпуса
 ```
+---
 
 # Технологический стек 
 ```text
@@ -132,6 +133,8 @@ Matplotlib
 Kaggle API
 PubMed API
 ```
+
+---
 
 # Текущий статус
 
