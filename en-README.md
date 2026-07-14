@@ -3,7 +3,6 @@
 
 # 🇬🇧 English version
 
-```md
 # AI VetScan — Veterinary AI Diagnostic System
 
 ## About the Project
